@@ -187,7 +187,7 @@ const TIMELINE = [
     label: 'FASP anomaly scan (20-week screening scan)',
     startOffsetDays: 126, endOffsetDays: 146,
     detail: 'Offered between 18+0 and 20+6 weeks; sometimes called the 20-week screening scan.',
-    cite: 'GOV.UK, NHS Fetal Anomaly Screening Programme handbook: "This ultrasound scan is offered between 18+0 and 20+6 weeks."',
+    cite: 'GOV.UK, NHS Fetal Anomaly Screening Programme handbook: "The offer of a fetal anomaly scan is recommended and where accepted should be undertaken between 18+0 to 20+6 weeks of pregnancy."',
     source_url: 'https://www.gov.uk/government/publications/fetal-anomaly-screening-programme-handbook',
     verified_on: '2026-07-23'
   },
@@ -275,7 +275,7 @@ const TIMELINE = [
   {
     id: 'n-pertussis', track: 'NHS', kind: 'vaccine',
     label: 'Whooping cough (pertussis) vaccine',
-    startOffsetDays: 112, endOffsetDays: 224,
+    startOffsetDays: 112, endOffsetDays: 223,
     detail: 'Usually at 20 weeks, can have it from 16 weeks; best protection for the baby if given before 32 weeks.',
     cite: 'NHS, "Whooping cough vaccination in pregnancy": "You usually have the whooping cough vaccine at 20 weeks pregnant, but you can have it from 16 weeks… you should have the vaccine before 32 weeks."',
     source_url: 'https://www.nhs.uk/pregnancy/keeping-well/whooping-cough-vaccination/',
