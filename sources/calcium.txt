@@ -1,0 +1,1398 @@
+Maternal Health Division
+Ministry of Health & Family Welfare
+Government of India
+December 2014
+
+Designed and printed with support from UNICEF
+
+Designed by: ​New Concept Information Systems (P) Ltd., New Delhi
+communication@newconceptinfosys.com
+
+National Guidelines for
+Calcium Supplementation During
+Pregnancy and Lactation
+
+Maternal Health Division
+Ministry of Health & Family Welfare
+Government of India
+December 2014
+
+yo oekZ
+lfpo
+
+Hkkjr ljdkj
+LokLF; ,oa ifjokj dY;k.k foHkkx
+LokLF; ,oa ifjokj dY;k.k ea=ky;
+
+LOV VERMA
+Secretary
+
+Government of India
+Department of Health & Family Welfare
+Ministry of Health & Family Welfare
+
+Preface
+Quality Antenatal Care is the cornerstone to improved maternal health
+and a crucial challenge that is faced by every health care setting
+especially in a country like ours. An essential measure for overcoming
+this challenge is to equip the staff with appropriate knowledge and skill
+sets so that they are able to provide the best care possible at the right
+time and in the right place.
+I am happy to note that the Government of India took a decision to empower and
+equip the Auxiliary Nurse Midwives (ANMs) with appropriate knowledge and skills to
+prevent Preeclampsia / Eclampsia with Calcium supplementation during pregnancy
+and lactation.
+These guidelines have been developed after taking cognizance of scientific evidence
+and considerable consultation with domain experts which are expected to serve as
+a handy tool for both policy makers and programme managers, giving step by step
+guidance on initiating and implementing this strategy. It will also equip the ANMs and
+all the frontline health care workers with the ability and knowledge on how to carry
+out key activities that will prevent maternal mortality & morbidity due to hypertensive
+disorders.
+I sincerely hope that these guidelines will be implemented both in letter and spirit
+in order to ensure quality ante-natal care services in order to accelerate reduction in
+maternal morbidity and mortality
+
+(Lov Verma)
+
+dejk ua 156] ,&Lda/k] fuekZ.k Hkou] ubZ fnYyh&110011
+Room No. 156, A-Wing, Nirman Bhawan, New Delhi-110011
+Tele : (O) 011-23061863, Fax : 011-23061252, E-mail : secyhfw@gmail.com
+
+Hkkjr ljdkj
+LokLF; ,oa ifjokj dY;k.k ea=ky;
+fuekZ.k Hkou] ubZ fnYyh & 110011
+Government of India
+Ministry of Health & Family Welfare
+Nirman Bhavan, New Delhi - 110011
+
+C.K. Mishra, IAS
+Additional Secretary &
+Mission Director, NHM
+Telefax : 23061066, 23063809
+E-mail : asmd-mohfw@nic.in
+
+Dated: 17th November, 2014
+
+Foreword
+“A Strategic Approach to Reproductive, Maternal, Newborn, Child and
+Adolescent Health (RMNCH+A)” in India has brought about a paradigm
+shift in the delivery of health care services. However, maternal mortality
+still remains a crucial challenge. We stand firmly committed to reducing
+maternal mortality & morbidity in India and are making relentless efforts
+to overcome this challenge.
+As, Programme Managers, we are all aware that one of the leading causes of maternal
+mortality is hypertensive disorders during pregnancy which can lead to pre-eclampsia and
+a considerable amount of child and maternal morbidity and mortality is associated with
+this condition.
+It is in this context that the Ministry of Health & Family Welfare has taken a decision to adopt
+a preventive strategy for pregnancy induced hypertensive disorders. Key intervention in this
+strategy is universal supplementation of Calcium to all pregnant women across India.
+This guideline will be useful for the states in universal supplementation of calcium during
+pregnancy and in post-natal period. I am confident that this simple measure will go a long
+way in bringing us closer to our goal of reduce maternal mortality and morbidity and the
+states as our key partners will implement these guidelines in true letter and spirit.
+Since enabling support systems is essential for seamless implementation of this strategy,
+I would also request the states to ensure that appropriate mechanisms for training,
+monitoring and operationalising of this initiative are put in place at the earliest.
+
+C.K. Mishra
+
+Hkkjr ljdkj
+LokLF; ,oa ifjokj dY;k.k ea=ky;
+fuekZ.k Hkou] ubZ fnYyh & 110011
+Government of India
+Ministry of Health & Family Welfare
+Nirman Bhavan, New Delhi - 110011
+
+Dr. RAKESH KUMAR, IAS
+JOINT SECRETARY
+Telefax : 23061723
+E-mail : rk1992uk@gmail.com
+E-mail : rkumar92@hotmail.com
+
+Foreword
+Majority of deaths due to pre-eclampsia and eclampsia are preventable
+with the provision of timely and effective care during pregnancy and child
+birth. Optimising health care to prevent and treat women with hypertensive
+disorders is a necessary step towards achieving the Millennium Development
+Goals.
+Considering the high prevalence and mortality caused by the hypertensive disorders
+amongst pregnant and lactating women in India; need for an additional preventive
+strategy was felt. Based on the WHO recommendation and global evidences, the use
+of calcium supplementation to pregnant and lactating women for preventing pregnancy
+induced hypertensive disorders has now been included in the Government of India’s
+ante-natal care (ANC) and post natal care (PNC) package.
+Maternal Health Division of MoHFW convened a series of meetings with different experts
+and after detailed deliberation drafted the present guidelines to incorporate routine
+calcium supplementation during pregnancy and lactation. These guidelines have been
+made as simple as possible to facilitate easy implementation.
+These guidelines clearly articulate the technical aspects of the use of Calcium to prevent
+pre-eclampsia and its effect on maternal and new born health and outline the operational
+aspect of rolling out this intervention as a part of the ANC package.
+I express sincere appreciation to all the experts who have put their best efforts to draft
+these guidelines. I am confident that these guidelines will not only provide direction
+to all service providers in implementation but also contribute immensely towards safe
+motherhood and new born health in India.
+
+(Dr. Rakesh Kumar)
+
+Hkkjr ljdkj
+LokLF; ,oa ifjokj dY;k.k ea=ky;
+fuekZ.k Hkou] ubZ fnYyh & 110011
+Government of India
+
+Dr. H. BHUSHAN
+Deputy Commissioner (MH)
+Telefax : 23062930
+E-mail : drhbhushan@gmail.com
+
+Ministry of Health & Family Welfare
+Nirman Bhavan, New Delhi - 110011
+
+Programme Officer’s Message
+Maternal Health Division, Department of Health & Family welfare had
+come out with comprehensive technical and operational guidelines on
+Calcium Supplementation for prevention of hypertensive disorders during
+pregnancy. These guidelines have been the result of series of deliberations
+with the members of expert group and development partners.
+I would like to express that these guidelines would not have been possible without
+the constant encouragement from Mr. C.K Mishra, AS & MD & Ms Anuradha Gupta,
+Ex AS & MD. Dr. Rakesh Kumar, Joint Secretary (RMNCH+A) headed the expert group
+meeting and gave valuable inputs in framing this guideline.
+
+I would like to acknowledge the contribution of all members of the Expert Group
+in developing the content of these technical and operational guidelines. I would
+also like to acknowledge my colleagues in MH Division especially Dr. Dinesh
+Baswal, DC (MH) and development partner’s for their valuable efforts and inputs
+in developing this document.
+The calcium supplementation needs to be incorporated as part of regular ANC & PNC.
+This has a potential to avert large number of maternal deaths due to Eclampsia alone. I
+wish success and extend unstinting support towards implementation of this initiative by
+the States and UTs.
+
+(Dr Himanshu Bhushan)
+
+List of Contributors
+1
+
+Shri C. K. Mishra
+
+AS & MD (NHM), MoHFW
+
+2
+
+Dr Rakesh Kumar
+
+JS (RMNCH+A), MoHFW
+
+3
+
+Dr Himanshu Bhushan
+
+DC (I/c MH), MoHFW
+
+4
+
+Dr Dinesh Baswal
+
+DC (MH), MoHFW
+
+5
+
+Dr V. Seshiah
+
+Diabetes Care Centre, Chennai
+
+6
+
+Dr Rajesh Khadgawat
+
+Add. Prof., Dept. of Endocrinology & Metabolism,
+AIIMS, New Delhi
+
+7
+
+Dr Hema Divakar
+
+FOGSI
+
+8
+
+Dr Prema Ramchandran
+
+Nutritional Expert, Hyderabad
+
+9
+
+Dr Abha Singh
+
+HOD OBGY, LHMC, New Delhi
+
+10
+
+Dr Himali H. Sinha
+
+Dept. of OBGY, AIIMS, Patna
+
+11
+
+Dr Aboli Gore
+
+MP- TAST, Bhopal
+
+12
+
+Dr Ratna Kumar
+
+Ex HOD, Institute of OBGYN, Chennai, Tamil Nadu
+
+13
+
+Dr B. Shailaja
+
+Epidemiologist, Andhra Pradesh
+
+14
+
+Dr Genevieve Begkoyian
+
+UNICEF
+
+15
+
+Dr Malalay Ahmadzai
+
+UNICEF
+
+16
+
+Dr Sudha Balakrishnan
+
+UNICEF
+
+17
+
+Ms Vani Sethi
+
+UNICEF
+
+18
+
+Dr Somesh Kumar
+
+Jhpiego
+
+19
+
+Dr Vikas Yadav
+
+Jhpiego
+
+20
+
+Dr Vidushi Kulshreshtha
+
+AIIMS, New Delhi
+
+21
+
+Dr Arunabh Ray
+
+BTAST, Patna
+
+22
+
+Mr K. S. Prasanth
+
+Senior Consultant, NHSRC
+
+23
+
+Dr Manju Chuggani
+
+Principal, Rufaida College Of Nursing, New Delhi
+
+24
+
+Dr Ritu Agrawal
+
+LSTM, New Delhi
+
+25
+
+Dr Sudhir Maknikar
+
+National RMNCH+A Expert, JSI
+
+26
+
+Dr Pushkar Kumar
+
+Lead Consultant, MH, MoHFW
+
+27
+
+Dr Rajeev Agrawal
+
+Senior Mgt. Consultant, MH, MoHFW
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+vii
+
+28
+
+Dr Ravinder Kaur
+
+Senior Consultant, MH, MoHFW
+
+29
+
+Dr Gulfam Ahmed Hashmi
+
+Regional Coordinator, NRU, MoHFW
+
+30
+
+Dr Sonali Rawal
+
+NHM Consultant, MoHFW
+
+31
+
+Mr Shridhar B. Pandit
+
+PO, NRHM, Maharashtra
+
+32
+
+Dr Neeraj Agarwal
+
+Jhpiego
+
+33
+
+Ms Geeta Sharma
+
+UNICEF
+
+J&K Team
+34
+
+Dr Yashpal Sharma
+
+MD, NHM, Govt. of J&K
+
+35
+
+Dr Harjeet Rai
+
+NHM, Govt. of J&K
+
+36
+
+Dr Mushtaq Ahmad Dar
+
+NHM, Govt. of J&K
+
+UP Team
+37
+
+Mr Sanjay Prasad
+
+Secretary, Health, Govt of UP
+
+38
+
+Dr Neera Jain
+
+GM, MH, NHM, Govt. of UP
+
+39
+
+Dr Vikas Singhal
+
+NHM, Govt. of UP
+
+40
+
+Dr Sapna Das
+
+NHM, Govt. of UP
+
+41
+
+Dr Pravesh Kumari
+
+NHM, Govt. of UP
+
+42
+
+Dr Ranjana Khare
+
+Senior Gynaecologist, Jhalkaribai Hospital,
+Lucknow
+
+KGMU Team, Lucknow
+
+viii
+
+43
+
+Dr Vinita Das
+
+Prof. & Head, Dept. of OBGY, KGMU, Lucknow
+
+44
+
+Dr Anjoo Agarwal
+
+Prof. of OBGY, KGMU, Lucknow
+
+45
+
+Dr Amita Pandey
+
+Assoc. Prof, Dept. of OBGY, KGMU, Lucknow
+
+46
+
+Dr Smriti Agarwal
+
+Asst. Prof. of OBGY, KGMU, Lucknow
+
+47
+
+Dr Madhukar Mittal
+
+Asst. Prof. of Dept. of Medicine, KGMU, Lucknow
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+List of Abbreviations
+ANC
+ANM
+ASHA
+AWW
+CHC
+CI
+DH
+DPT
+GoI
+HMIS
+IEC
+IFA
+MC
+MCTS
+MO
+NNM
+NNMB
+PHC
+PNC
+PW
+RCT
+RDA
+RR
+SBA
+SN
+UTI
+VHND
+WHO
+
+Antenatal Care
+Auxiliary Nurse Midwife
+Accredited Social Health Activist
+Anganwadi Worker
+Community Health Centre
+Confidence Interval
+District Hospital
+Diphtheria, Pertussis andTetanus
+Government of India
+Health Monthly Information System
+Information Education Communication
+Iron Folic Acid
+Medical College
+Mother and Child Tracking System
+Medical Officer
+Neonatal Mortality
+National Nutrition Monitoring Bureau
+Primary Health Centre
+Postnatal Care
+Pregnant Women
+Randomised Control Trials
+Recommended Dietary Allowances
+Relative Risk
+Skilled Birth Attendants
+Staff Nurse
+Urinary Tract Infection
+Village Health Nutrition Day
+World Health Organization
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+ix
+
+Contents
+
+1
+
+Introduction
+
+1
+
+2
+
+Evidence
+
+1
+
+3
+
+Technical guidelines for Calcium supplementation in pregnancy
+
+2
+
+4
+
+Operational aspect of the programme
+
+4
+
+5
+
+Key points
+
+8
+
+6
+
+Records & registers
+
+9
+
+7
+
+Monitoring and evaluation
+
+9
+
+8
+
+Outcome measures to be assessed
+
+9
+
+9
+
+Budget
+
+10
+
+10 Annexures
+Annexure 1: Dietary Counselling for Calcium in Pregnancy and
+Lactation
+Annexure 2: Counselling Tips
+Annexure 3: FAQs on Calcium Supplementation
+Annexure 4: Good Dietary Sources of Calcium
+
+11
+
+11 Bibliography
+
+17
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+13
+14
+15
+16
+
+xi
+
+1
+
+Introduction
+
+Dietary requirement for different nutrients increases during pregnancy and
+lactation. The dietary intake of many Indian women, however, is significantly
+below recommended dietary requirements. Of these, two most important
+nutrients are iron and calcium.
+Adequate calcium intake during pregnancy and lactation has the potential
+to prevent pre-eclampsia, pre-term birth, neonatal mortality (NNM),
+improve maternal bone mineral content, breast milk concentration and bone
+development of neonates. While there are national guidelines on maternal
+iron supplementation, there are no national guidelines available for calcium
+supplementation.There are only some states that have included low-dose
+calcium (<1g/d) as part of antenatal and postnatal services.
+
+2
+
+Evidence
+
+2.1 International evidence
+Various international evidences are available on the benefit of daily maternal
+calcium supplementation during pregnancy. These include the Lancet 2013
+series in maternal and child nutrition, several meta-analysis, WHO 2011
+and WHO 2013 guidelines and the 2014 Cochrane systematic review. A
+summary of these evidences is that the daily intake of at least one gm/
+day of calcium in pregnancy after the first trimester reduces the risk of
+pre-eclampsia by at least 50%, with an additional 24% reduction in the risk
+of pre-term birth.
+For prevention of pre-eclampsia, WHO 2 0 1 3 guidelines recommend
+inclusion of routine prenatal calcium supplementation in high doses (>1
+gm/day), especially in areas where dietary calcium intake is low.
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+1
+
+2.2 National evidence
+The daily recommended dietary allowances (RDA) for calcium in pregnancy
+and lactation is 1200 mg per day.The National Nutrition Monitoring Bureau
+(NNMB) - 2012 data from 10 Indian states shows that the daily calcium
+intake during pregnancy and lactation for Indian women is less that 30% of
+RDA (which means it is only 400 mg/d).This shows that most pregnant and
+lactating women in India have low dietary calcium intake.
+
+2.3 Need for national guidelines
+Considering the poor dietary calcium intake among pregnant and lactating
+women in India, high prevalence of hypertensive disorders in pregnancy
+and to maintain uniformity in dosage of maternal calcium supplementation
+across the country, there was an urgent need to formulate our own guidelines
+for calcium supplementation during pregnancy. Moreover, there is ample
+universal evidence that calcium supplementation in pregnancy reduces
+incidence of pre-eclampsia and other hypertensive disorders in pregnancy.
+Therefore, an expert group was constituted to deliberate on calcium
+supplementation in detail and to formulate guidelines for India. The present
+guidelines have been prepared based on the recommendations of these
+experts and available national/international evidences.
+
+3
+
+Technical guidelines for Calcium
+supplementation in pregnancy
+
+3.1 Target population
+All pregnant women in the community.
+Individual states are free to implement this programme across the
+states in a phased manner.
+All health facilities and outreach points in the state/district have to be
+covered.
+2
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+Aim:
+
+Objective:
+
+To reduce the incidence of
+hypertensive disorders of
+pregnancy by routine calcium
+supplementation
+To provide a protocol for
+calcium supplementation
+and operational details of
+this programme
+
+To contribute to the
+reduction of maternal
+morbidity and mortality
+
+3.2 Protocol for calcium supplementation
+All pregnant and lactating women to be counselled about intake of
+calcium rich foods.
+Oral swallowable calcium tablets to be taken twice a day (total
+1g calcium/day) starting from 14 weeks of pregnancy up to six
+months post-partum.
+One calcium tablet should be taken with the morning/afternoon meal
+and the second tablet with the evening/night meal. It is not advisable
+to take both calcium tablets together as > 800 mg calcium interferes
+with iron absorption. Calcium tablets should not be taken empty
+stomach since it causes gastritis.
+Calcium and Iron Folic Acid (IFA) tablets should not be taken together
+since calcium inhibits iron absorption. IFA tablets should be taken
+preferably two hours after a meal.
+Each calcium tablet should contain 500 mg elemental calcium and
+250 IU vitamin D3. The preferred formulation for calcium is calcium
+carbonate. The rationale for inclusion of Vitamin D is to enhance the
+absorption of calcium.
+
+3.3 Specifications of calcium & Vitamin D3 from IP
+Calcium carbonate salts to be used.
+Swallowable tablets of 500 mg elemental calcium and 250 IU Vitamin
+D3 in each tablet to be taken with meals two times a day.
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+3
+
+3.4 Side effects & contraindications
+None, within the recommended limit (1gm/d).
+A small proportion of women may experience mild gastritis so calcium
+tablets should be taken with meals.
+Excessive consumption of calcium (>3 gm/d) may increase the risk
+of urinary stones and Urinary Tract Infection (UTI) and reduce the
+absorption of essential micronutrients.
+
+4
+
+Operational aspect of the programme
+
+4.1 Roll- out plan
+The programme will be implemented in all states, at all levels of contact
+of pregnant women (PW) with the health system, such as Village Health
+& Nutrition Days (VHNDs), sub-centres, primary health centres (PHC)
+in urban and rural areas, community health centres (CHC), sub-district
+hospitals, district hospitals (DH), and medical colleges (MC).
+The service provider and programme officer must be oriented and
+trained about the programme.
+
+4.2. Strategy for implementation
+It is recommended that calcium be given to all PW after the first trimester
+till six months after delivery.
+During pregnancy, 360 tablets are required per woman (@ 2 tablets
+per day from 14 weeks to 40 weeks = 26 weeks = 182 days) and 360
+tablets in the first six months of the postnatal period (@ 2 tablets per
+day for 6 months).
+ANM to distribute calcium tablets along with IFA tablets to all pregnant
+women as per the following proposed schedule, which can be adapted
+to the state context:
+
+4
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+When
+
+How many
+
+By whom
+
+Where
+
+Second ANC
+
+12 strips (@ 15 ANM
+tablets per strip)
+
+ANC clinic/
+VHND
+
+Third ANC
+
+12 strips (@ 15 ANM
+tablets per strip)
+
+ANC clinic/
+VHND
+
+At the time of zero dose of
+polio for the infant
+
+12 strips (@ 15 ANM
+tablets per strip)
+
+Immunization
+clinic/VHND
+
+At the time of third dose of
+Diphtheria, Pertussis, and
+Tetanus (DPT) for the infant
+
+12 strips (@ 15 ANM
+tablets per strip)
+
+Immunization
+clinic/VHND
+
+If the woman delivers at home or doesn’t come to the ANC clinic, the ASHA
+has the responsibility to deliver the calcium tablets at the beneficiary’s home.
+Appropriate counselling of the target group to be done by the designated
+counsellor/staff/service provider at the time of distributing the tablets.
+Counselling must emphasise the benefits and protocol of calcium intake
+including the appropriate time at which to take calcium and iron tablets.
+The total number of calcium tablets required for a district should be calculated
+accordingly at the district level, after taking into account the total number of
+pregnant women registered for ANC and a 10% add on.
+
+4.3. Capacity building of health personnel for
+calcium supplementation in pregnancy
+Activity
+Health personnel
+
+General orientation
+Counselling Knowledge of calcium Maintaining
+about the programme
+and
+supplementation,
+records and
+including awareness and motivation dosage, timing of
+follow up
+Information Education
+administration in
+Communication (IEC)
+pregnancy
+
+ASHA
+
+√
+
+√
+
+√
+
+√
+
+ANM/SN/LHV
+
+√
+
+√
+
+√
+
+√
+
+MO/ObGyn
+
+√
+
+√
+
+√
+
+√
+
+State/District
+Programme Manager
+& Facility in charge
+
+√
+
+√
+
+√
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+5
+
+One-day orientation programme, based on the guidelines, should be
+organised for the district and block level programme officers. During
+this orientation programme, planning for necessary logistics and
+training of healthcare workers should also be done.
+Ideally, the training of healthcare workers for calcium supplementation
+of pregnant women should also be integrated with other training
+programmes, such as the training for deworming during pregnancy.
+Training for this component should be included in the training
+module of ASHAs as well as the training programmes of skilled birth
+attendants (SBA).
+
+4.4 Training/ Orientation
+Topics for
+orientation
+General orientation about the programme
+including awareness and IEC
+Knowledge about the importance of
+calcium in the diet, calcium rich food, role
+of calcium in prevention of hypertensive
+disorders in pregnancy
+Benefits of calcium and possible adverse
+effects if adequate calcium is not taken
+and assurance
+How and when to administer calcium
+tablets specially in relation to meals and
+intake of IFA tablets
+Dose and duration of intake during ANC
+and postnatal care (PNC)
+Importance of regularity and compliance
+Maintaining records and follow up
+
+6
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+Health
+workers
+Programme
+manager and
+Facility in charge
+ASHA
+ANM/SN/LHV
+MO/Ob-Gyn
+
+Duration
+
+One day orientation
+(Either separate or
+can be included with
+any other training
+programme)
+
+Batch size
+Districts to be mapped for all delivery points.
+All cadres of staff working at different levels of facilities but involved
+in providing ANC need to be oriented.
+Priority to be given to health personnel of all delivery points for
+training and orientation on rotation basis.
+Stand-alone training for calcium supplementation might not be
+needed, thus, orientation programme can be done during existing
+review meetings at states/districts/blocks/PHCs, or it may be combined
+with any other training programme.
+If separate training is to be organised, one batch can have 50-100
+trainees from all cadres.
+One batch of trainees will consist of
+w Programme Manager
+w ANM/SN/LHV
+w MO/Ob-Gyn.
+District Training-in-charge will accordingly prepare the training plan
+and calendar.
+ASHAs to be trained separately during any ongoing training
+programme.
+Training site
+Prerequisites
+Seminar/Conference Room with a capacity of around 100 participants
+Audio visual (AV) aids and other training aids
+Any DH/CHC which has the above prerequisites/is able to arrange the
+above prerequisites can be chosen as a training site
+Trainers
+Ob-Gyn/MO/Counsellor to be included as trainers
+Half day Training of Trainers (TOT) can be organised for 20-25 trainers
+at state level
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+7
+
+Training material
+GoI guidelines on calcium supplementation
+Any other teaching or training material synchronised with GoI
+guidelines
+Training methodology
+Job aids/posters/handouts Presentations
+
+4.5 Community linkages
+State contextualisation of the national guidelines during state level
+meeting
+Inclusion of calcium in antenatal and postnatal services protocol/
+package
+Inclusion of calcium in the essential drug list and sub-centre kit
+Development of state-specific procurement guidelines
+Appropriate media and IEC campaign to increase awareness about the
+programme on a periodic basis
+Availability of calcium at all chosen facilities and availability at subcentre
+Inclusion of calcium supplementation indicator in programme
+monitoring in Health Monthly Information System (HMIS)/Mother &
+Child Tracking System (MCTS)
+
+5
+
+Key points
+Supplementation of calcium to all pregnant women after the 1st
+trimester and continue till 6 months postpartum
+Calcium carbonate salts to be used
+Swallowable tablets of 500 mg elemental calcium and 250 IU
+Vitamin D3 in each tablet to be taken with meals twice a day
+IFA tablets to be taken at least 2 hours after meals
+
+8
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+6
+
+Records & registers
+Appropriate entries should be made in the ANC card of the pregnant
+woman about calcium supplementation
+A column should be added in the ANC register to record calcium
+supplementation given to pregnant women.This component should be
+made a part of regular monthly ANC reports sent by various levels
+Reporting on calcium supplementation during pregnancy should be
+made a part of reporting under the HMIS, MCTS Reproductive Child
+Health (RCH) portal
+
+State and district programme managers to ensure
+Constant supply of calcium and its distribution
+Reflecting adequate budget in Programme Implementation Plan (PIP)
+and ensuring timely release of funds
+Monitoring outcome and progress
+
+7
+
+Monitoring and evaluation
+Monitoring of calcium supplementation during pregnancy should
+be made a part of the existing visits for monitoring ANC by various
+supervisors and should be included in their checklist
+ASHAs to monitor compliance through home visit
+ANM to monitor compliance during ANC and PNC
+
+8
+
+Outcome measures to be assessed
+Number/Percentage of ANC who have received calcium supplementation
+in the reporting month out of the total ANC
+Number/Percentage of PNC who have received calcium supplementation
+in the reporting month out of the total PNC
+Number/Percentage of PW having hypertensive disorder of pregnancy
+in the reporting month out of total deliveries
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+9
+
+9
+
+Budget
+Infrastructure: Any additional infrastructure not required
+Human resource: No separate human resource required
+Cost of calcium tablets can be reflected under Janani Shishu Suraksha
+Karyakram (JSSK)
+
+Budget estimates and provision for calcium tablets needs to be done
+by the state/district programme officer
+a. It is estimated that each pregnant woman will take Tab. calcium after
+the 1st trimester. Every pregnant woman will be provided two calcium
+tablets daily.
+b. Calcium tablets will be given for six months during the ANC period
+and for six months during lactation. Thus, every woman will need 720
+tablets. Each tablet will contain 500 mg elemental calcium and 250
+IU Vitamin D3.
+c. So the budget provision needs to be made accordingly.
+Training:
+One day orientation/training can be organised. Stand-alone training is not
+required. This can be part of any other ongoing training or can be held
+during state/district/block review meetings
+
+10
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+10 Annexures
+Annexure 1: Dietary Counselling for Calcium in
+Pregnancy and Lactation
+
+13
+
+Annexure 2: Counselling Tips
+
+14
+
+Annexure 3: FAQs on Calcium Supplementation
+
+15
+
+Annexure 4: Good Dietary Sources of Calcium
+
+16
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+11
+
+CALCIUM
+
+Annexure 1: Dietary Counselling for Calcium in Pregnancy
+and Lactation
+Improve Calcium and Vit D uptake by
+
+Drink one glass of milk everyday
+
+Have one cup of curd everyday
+
+Take morning sunlight everyday
+
+Must take green leafy vegetables
+
+Take one cup ragi everyday
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+13
+
+Annexure 2: Counselling Tips
+Supplementation of calcium to all pregnant women after 1st trimester
+Calcium supplementation leads to maternal and fetal wellbeing
+Oral swallowable calcium tablets to be taken twice a day (total 1gm
+calcium/day) starting from 14 weeks of pregnancy up to 6 months
+post-partum.
+Calcium tablets should be taken, one with morning/afternoon meal
+and second with evening/night meal.
+Both calcium tablets are not to be taken together, it interferes with
+iron absorption.
+Calcium tablets should not be taken empty stomach since it causes
+gastritis.
+Calcium and IFA tablets should not be taken together since calcium
+inhibits iron absorption.
+IFA tablet should be taken preferably two hours after meal.
+
+Two tablets of calcium per day keep the mother and child healthy!
+
+14
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+Annexure 3: FAQs on Calcium Supplementation
+Q 1. Why is it necessary to consume calcium?
+Answer: Consumption of calcium is necessary for you and your child’s health.
+It will help reduce the possibility of high blood pressure in pregnancy related
+complications. High blood pressure is dangerous for both mother and child.
+Calcium is also important for the growth of bones and teeth of your child.
+Q 2. What should we eat to get calcium in our diet?
+Answer: Calcium is found in abundance in:
+w
+
+Milk and milk products such as cheese and curd.
+
+w
+
+Green leafy vegetables such as spinach and fenugreek.
+
+w
+
+Sweets made of sesame seeds and ragi.
+
+Q 3. Do we still need to take calcium tablet?
+Answer: A woman needs a lot of calcium during pregnancy, which she can’t
+get from the food items she consumes.Therefore, it is necessary to supplement
+calcium tablet along with calcium rich food in pregnancy.
+Q 4: When should we start consuming calcium and for what
+duration?
+Answer: Two calcium tablets per day should be consumed from fourth month
+of pregnancy up to six months after delivery.
+Q 5: What precautions should be taken while taking calcium
+tablet?
+Answer: Calcium tablets should not be taken along with iron tablet. It should
+be taken with food ideally.
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+15
+
+Annexure 4: Good Dietary Sources of Calcium
+
+16
+
+Food example
+
+Amount
+
+Calcium in
+milligrams
+
+Milk
+
+1 Cup
+
+580
+
+Butter Milk
+
+1 Cup
+
+232
+
+Yogurt
+
+1 Cup
+
+452
+
+Cheese
+
+1 cubic inch
+
+129
+
+Ice-cream
+
+1 Cup
+
+272
+
+Sweet Potatoes
+
+1 Cup
+
+50-100
+
+Green Beans
+
+1 Cup
+
+50-100
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+11 Bibliography
+1.
+
+Betrán AP, Wojdyla D, Posner SF, Gülmezoglu AM. National estimates
+for maternal mortality: an analysis based on the WHO systematic
+review of maternal mortality and morbidity. BMC Public Health 2005;
+5:131.
+
+2.
+
+Clark SL, Belfort MA, Dildy GA, Herbst MA, Meyers JA, Hankins GD.
+Maternal death in the 21st century: causes, prevention, and relationship
+to cesarean delivery. American Journal of Obstetrics and Gynecology
+2008; 199(1):36.e1–e5.
+
+3.
+
+Khan KS, Wojdyla D, Say L, Gulmezoglu AM, Van Look PF. WHO
+analysis of causes of maternal death: a systematic review. Lancet
+2006; 367:1066-74.
+
+4.
+
+NHMRC. NHMRC Report on Maternal Deaths in Australia 1988-1990.
+Canberra: Government Publishing Service, 1993.
+
+5.
+
+Langenveld J, Ravelli AC, vanKaam AH, van der Ham DP, van Pampus
+MG, Porath M, et al. Neonatal outcome of pregnancies complicated
+by hypertensive disorders between 34 and 37 weeks of gestation: a 7
+year retrospective analysis of a national registry. American Journal of
+Obstetrics and Gynecology 2011; 205(6):540.e1–540.e7.
+
+6.
+
+Ozkan H, Cetinkaya M, Koksal N, Ozmen A, Yildiz M. Maternal
+preeclampsia is associated with an increased risk of retinopathy of
+prematurity. Journal of Perinatal Medicine 2011; 39(5):523–7.
+
+7.
+
+Villar J, Say L, Shennan A, Lindheimer M, Duley L, Conde Agudelo A,
+et al. Methodological and technical issues related to the diagnosis,
+screening, prevention and treatment of preeclampsia and eclampsia.
+International Journal of Gynecology & Obstetrics 2004; 85 (Suppl 1):
+S28–S41.
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+17
+
+8.
+
+Chhabra S, Kakani A. Maternal mortality due to eclamptic and noneclamptic hypertensive disorders: a challenge. J Obstet Gynaecol.
+2007 Jan; 27 (1):25-9.
+
+9.
+
+Villar J, Ezcurra EJ, Gurtner de la FuenteV, Campodonico L. Preterm delivery
+syndrome: the unmet need. Research and Clinical Forums 1994; 16:9–39.
+
+10. Kazerooni T, Hamze-Nejadi S, KazerooniT, Hamze-Nejadi S. Calcium to
+creatinine ratio in a spot sample of urine for early prediction of preeclampsia. International Journal of Gynecology & Obstetrics 2003;
+80:279–83.
+11. Kumru S, Aydin S, Simsek M, Sahin K, Yaman M, Ay G. Comparison of
+serum copper, zinc, calcium, and magnesium levels in pre-eclamptic
+and healthy pregnant women. Biological Trace Element Research
+2003; 94:105–12.
+12. Kisters K, Barenbrock M, Louwen F, Hausberg M, Rahn KH, Kosch
+M. Membrane, intracellular, and plasma magnesium and calcium
+concentrations in preeclampsia. American Journal of Hypertension
+2000; 13:765–9.
+13. Duvekot EJ, de Groot CJ, Bloemenkamp KW, Oei SG. Pregnant
+women with a low milk intake have an increased risk of developing
+preeclampsia. European Journal of Obstetrics & Gynecology and
+Reproductive Biology 2002; 105:11–4.
+14. Belizan JM, Villar J, Repke J. The relationship between calcium intake
+and pregnancy-induced hypertension: up-to-date evidence. American
+Journal of Obstetrics and Gynecology 1988; 158:898–902.
+15. Villar J, Belizan JM, Repke J. The effect of calcium supplementation on
+the incidence of hypertensive disorders of pregnancy and prematurity.
+7th World Congress of Hypertension in Pregnancy; 1990; Perugia,
+Italy. 1990:54.
+
+18
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+16. Villar J, Belizan JM, Repke JT. Does calcium supplementation reduce
+pregnancy-induced hypertension and prematurity? Advances in
+the prevention of low birthweight; 1988 May 8-11; Cape Cod,
+Massachusetts. 1998:187–95.
+17. Villar J, Repke JT. Calcium supplementation during pregnancy may
+reduce preterm delivery in high-risk populations. American Journal of
+Obstetrics and Gynecology 1990; 163:1124–31.
+18. Repke J, Villar J, Bergel E, Belizan JM. The effect of iron absorption
+in patients receiving calcium supplementation. 9th Annual Meeting
+of the Society of Perinatal Obstetricians; 1989 February 1-4; New
+Orleans, Louisiana, USA. 1989:512.
+19. Hofmeyr GJ, Lawrie TA, Atallah ÁN, Duley L Calcium supplementation
+during pregnancy for preventing hypertensive disorders and related
+problems. Cochrane Database of Systematic Reviews 2010, Issue 8.
+Art. No.: CD001059. DOI: 10.1002/14651858.CD001059.pub3.
+20. Hofmeyr GJ, Lawrie TA, Atallah ÁN, Duley L, Torloni MR, Calcium
+supplementation during pregnancy for preventing hypertensive
+disorders and related problems (Review). Cochrane Database of
+Systematic Reviews 2014, Issue 6.
+21. National Nutrition Monitoring Bureau (NNMB) Survey, Rural-Third
+Repeat Survey 2011-12
+22. V. Bhatia: Dietary calcium intake - a critical reappraisal: Indian J Med
+Res 127, March 2008, pp 269-273
+23. World Health Organization Guideline: Calcium supplementation in
+pregnant women, 2013
+24. Holick MF. Vitamin D deficiency. N Engl J Med 2007; 357:266–81.
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+19
+
+25. National Institutes of Health, Office of Dietary Supplements. Vitamin
+D. Available at: http://ods.od.nih.gov/factsheets/list-all/VitaminD.
+Retrieved December 16, 2010.
+26. Sachan A, Gupta R, Das V, Agarwal A, Awasthi PK, Bhatia V (2005).
+High prevalence of vitamin D deficiency among pregnant women and
+their newborns in northern India. Am J ClinNutr 81, 1060–1064.
+27. Sahu M, Bhatia V, Aggarwal A, Rawat V, Saxena P, Pandey A et al.
+(2008). Vitamin D deficiency in rural girls and pregnant women
+despite abundant sunshine in northern India. ClinEndocrinol,doi:
+10.1111/j.1365-2265.2008.03360.
+28. Vitamin D: screening and supplementation during pregnancy.
+Committee Opinion No. 495. American College of Obstetricians and
+Gynaecologists. Obstet Gynecol 2011; 118:197–8.
+29. NICE Public Health Guidance 27 Dietary interventions and physical
+interventions for weight management before, during and after
+pregnancy. July 2010
+
+20
+
+National Guidelines for Calcium Supplementation
+During Pregnancy and Lactation
+
+Maternal Health Division
+Ministry of Health & Family Welfare
+Government of India
+Nirman Bhawan
+New Delhi-110011
+Website: www.mohfw.gov.in & www.nhm.gov.in
+
+

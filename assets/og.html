@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root {
+    --bg: #201512;
+    --card: #2C1E19;
+    --line: #4A342C;
+    --cream: #F2E4DE;
+    --soft: #CBB3AA;
+    --blush: #E39C90;
+    --blush-deep: #C4756B;
+    --thread: #A17E70;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1200px; height: 630px; overflow: hidden; }
+  body {
+    position: relative;
+    background:
+      radial-gradient(900px 500px at 85% -10%, rgba(227,156,144,0.10), transparent 60%),
+      radial-gradient(700px 420px at 5% 110%, rgba(196,117,107,0.08), transparent 55%),
+      linear-gradient(180deg, #1b110e 0%, #201512 100%);
+    font-family: var(--sans);
+    color: var(--cream);
+    -webkit-font-smoothing: antialiased;
+  }
+  .strand { position: absolute; left: 0; right: 0; top: 372px; width: 1200px; height: 150px; }
+  .frame {
+    position: absolute; inset: 0;
+    padding: 72px 84px;
+    display: flex; flex-direction: column; justify-content: space-between;
+  }
+  .brand { display: flex; align-items: center; gap: 20px; }
+  .wordmark { font-size: 60px; font-weight: 800; letter-spacing: -0.03em; }
+  .headline { max-width: 980px; margin-top: -10px; }
+  .headline h1 {
+    font-size: 52px; font-weight: 800; letter-spacing: -0.025em; line-height: 1.14;
+  }
+  .headline .accent { color: var(--blush); }
+  .headline p {
+    margin-top: 18px; font-size: 27px; color: var(--soft); line-height: 1.4; max-width: 40ch;
+  }
+  .chips { display: flex; gap: 12px; }
+  .chip {
+    display: inline-flex; align-items: center; gap: 10px;
+    padding: 11px 20px; border: 1px solid var(--line); border-radius: 999px;
+    background: rgba(44,30,25,0.6);
+    font-size: 19px; font-weight: 600; color: var(--soft);
+    white-space: nowrap;
+  }
+  .chip .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--blush); }
+  .chip .dot--ring { background: transparent; border: 2px solid var(--thread); }
+</style>
+</head>
+<body>
+  <!-- the 40-bead week strand, current week lit -->
+  <svg class="strand" viewBox="0 0 1200 150" aria-hidden="true">
+    <path id="thread" d="" fill="none" stroke="#A17E70" stroke-width="2"/>
+    <script>
+      // beads laid out along a gentle sag; week 29 lit
+      const svg = document.currentScript.parentNode;
+      const NS = 'http://www.w3.org/2000/svg';
+      const x0 = 40, x1 = 1160, n = 40, cur = 29;
+      const step = (x1 - x0) / (n - 1);
+      const yAt = i => 55 + 26 * Math.sin((i / (n - 1)) * Math.PI);
+      let d = '';
+      for (let i = 0; i < n; i++) d += (i ? ' L' : 'M') + (x0 + i * step).toFixed(1) + ' ' + yAt(i).toFixed(1);
+      svg.querySelector('#thread').setAttribute('d', d);
+      const tagWeeks = new Set([8, 11, 16, 18, 20, 25, 28, 31, 34, 36, 38]);
+      for (let i = 0; i < n; i++) {
+        const cx = x0 + i * step, cy = yAt(i);
+        const c = document.createElementNS(NS, 'circle');
+        c.setAttribute('cx', cx); c.setAttribute('cy', cy);
+        c.setAttribute('r', i === cur ? 16 : 8);
+        if (i < cur) { c.setAttribute('fill', '#A17E70'); }
+        else if (i === cur) { c.setAttribute('fill', '#E39C90'); c.setAttribute('stroke', '#C4756B'); c.setAttribute('stroke-width', '3'); }
+        else { c.setAttribute('fill', '#2C1E19'); c.setAttribute('stroke', '#A17E70'); c.setAttribute('stroke-width', '2'); }
+        svg.appendChild(c);
+        if (tagWeeks.has(i)) {
+          const r = document.createElementNS(NS, 'rect');
+          r.setAttribute('x', cx - 5); r.setAttribute('y', cy + 16);
+          r.setAttribute('width', 10); r.setAttribute('height', 10); r.setAttribute('rx', 2.5);
+          r.setAttribute('fill', '#C4756B');
+          svg.appendChild(r);
+        }
+      }
+      const t = document.createElementNS(NS, 'text');
+      t.setAttribute('x', x0 + cur * step); t.setAttribute('y', yAt(cur) - 28);
+      t.setAttribute('text-anchor', 'middle');
+      t.setAttribute('fill', '#E39C90');
+      t.setAttribute('font-family', 'system-ui, sans-serif');
+      t.setAttribute('font-size', '24'); t.setAttribute('font-weight', '700');
+      t.textContent = '29+2';
+      svg.appendChild(t);
+    </script>
+  </svg>
+
+  <div class="frame">
+    <div class="brand">
+      <svg width="72" height="72" viewBox="0 0 34 34" aria-hidden="true">
+        <rect width="34" height="34" rx="8" fill="#2C1E19"/>
+        <path d="M4 22 C 12 15, 22 15, 30 22" fill="none" stroke="#A17E70" stroke-width="1.6"/>
+        <circle cx="9"  cy="19.6" r="3.2" fill="#A17E70"/>
+        <circle cx="17" cy="18"   r="4.6" fill="#E39C90" stroke="#C4756B" stroke-width="1.4"/>
+        <circle cx="25" cy="19.6" r="3.2" fill="none" stroke="#A17E70" stroke-width="1.6"/>
+      </svg>
+      <span class="wordmark">weekwise</span>
+    </div>
+
+    <div class="headline">
+      <h1>Every scan window, ANC visit and Td dose —<br><span class="accent">dated, tickable, cited.</span></h1>
+    </div>
+
+    <div class="chips">
+      <span class="chip"><span class="dot"></span>from your LMP or due date</span>
+      <span class="chip"><span class="dot dot--ring"></span>cited to MoHFW &amp; NHS</span>
+      <span class="chip"><span class="dot"></span>printable A4</span>
+      <span class="chip"><span class="dot dot--ring"></span>never leaves your browser</span>
+    </div>
+  </div>
+</body>
+</html>

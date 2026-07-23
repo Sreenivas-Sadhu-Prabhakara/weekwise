@@ -1,0 +1,142 @@
+                       National Immunization Schedule
+Age            Vaccines given
+               Bacillus Calmette Guerin (BCG), Oral Polio Vaccine (OPV)-0 dose,
+Birth
+               Hepatitis B birth dose
+               OPV-1, Pentavalent-1, Rotavirus Vaccine (RVV)-1, Fractional dose of
+6 Weeks        Inactivated Polio Vaccine (fIPV)-1, Pneumococcal Conjugate Vaccine
+               (PCV) -1*
+10 weeks       OPV-2, Pentavalent-2, RVV-2
+14 weeks       OPV-3, Pentavalent-3, fIPV-2, RVV-3, PCV-2*
+9-12 months    Measles & Rubella (MR)-1, JE-1** , PCV-Booster*
+16-24          MR-2, JE-2**, Diphtheria, Pertussis & Tetanus (DPT)-Booster-1, OPV –
+months         Booster
+5-6 years      DPT-Booster-2
+10 years       Tetanus & adult Diphtheria (Td)
+16 years          Td
+Pregnant
+                  Td-1, Td-2 or Td-Booster***
+Mother
+* PCV in selected states/districts: Bihar, Himachal Pradesh, Madhya Pradesh, Uttar Pradesh
+(selected districts) and Rajasthan; in Haryana as state initiative
+** JE in endemic districts only
+*** One dose if previously vaccinated within 3 years
+National Immunization Schedule (NIS) for Infants, Children and Pregnant
+                        Women (Vaccine-wise)
+
+Vaccine          When to give             Dose            Route              Site
+For Pregnant Women
+Tetanus & adult  Early in                 0.5 ml          Intra-muscular     Upper Arm
+Diphtheria (Td)- pregnancy
+1
+
+
+
+Td-2                4 weeks after Td-     0.5 ml          Intra-muscular     Upper Arm
+                    1
+Td- Booster         If received 2         0.5 ml          Intra-muscular     Upper Arm
+                    TT/Td doses in a
+                    pregnancy within
+                    the last 3 years*
+For Infants
+Bacillus Calmette   At birth or as        0.1ml           Intra-dermal       Left Upper Arm
+Guerin (BCG)        early as possible     (0.05ml until
+                    till one year of      1 month age)
+                    age
+Hepatitis B -       At birth or as        0.5 ml          Intra-muscular     Antero-lateral
+Birth dose          early as possible                                        side of mid-
+                    within 24 hours                                          thigh
+Oral Polio          At birth or as        2 drops         Oral               Oral
+Vaccine (OPV)-0     early as possible
+                    within the first 15
+                    days
+OPV 1, 2 & 3        At 6 weeks, 10        2 drops         Oral               Oral
+                    weeks & 14
+                    weeks
+                    (OPV can be
+                    given till 5 years
+                    of age)
+Pentavalent         At 6 weeks, 10        0.5 ml          Intra-muscular     Antero-lateral
+1, 2 & 3            weeks & 14                                               side of mid-
+                    weeks                                                    thigh
+                    (can be given till
+                    one year of age)
+Pneumococcal        Two primary           0.5 ml          Intra-muscular     Antero-lateral
+Conjugate           doses at 6 and 14                                        side of mid-
+Vaccine(PCV)        weeks followed                                           thigh
+                    by Booster dose
+                    at 9-12 months
+Rotavirus (RVV)     At 6 weeks, 10        5 drops         Oral               Oral
+                    weeks & 14            (liquid
+                    weeks                 vaccine)
+                    (can be given till    2.5 ml
+                    one year of age)      (lyophilized
+                                          vaccine)
+Inactivated Polio   Two fractional        0.1 ml          Intra dermal two   Intra-dermal:
+Vaccine (IPV)       dose at 6 and 14                      fractional dose    Right upper arm
+                    weeks of age
+Measles Rubella     9 completed           0.5 ml          Sub-cutaneous      Right upper Arm
+(MR) 1 dose
+       st
+                    months-12
+                    months.
+                    (Measles can be
+                    given till 5 years
+                    of age)
+Vaccine                  When to give      Dose           Route                  Site
+Japanese                 9 completed       0.5 ml
+Encephalitis (JE)        months-12                        Sub-cutaneous (Live    Left upper Arm
+-1                       months.                          attenuated vaccine)    (Live attenuated
+                                                                                 vaccine)
+
+                                                                                 Anterolateral
+                                                          Intramuscular(Killed   aspect of mid
+                                                          vaccine)               thigh (Killed
+                                                                                 vaccine)
+
+Vitamin A                At 9 completed    1 ml           Oral                   Oral
+(1 dose)
+ st
+                         months with       ( 1 lakh IU)
+                         measles-Rubella
+
+
+For Children
+Diphtheria,              16-24 months      0.5 ml         Intra-muscular         Antero-lateral
+Pertussis &                                                                      side of mid-thigh
+Tetanus (DPT)
+booster-1
+
+MR 2 dose
+       nd
+                         16-24 months      0.5 ml         Sub-cutaneous          Right upper Arm
+OPV Booster              16-24 months      2 drops        Oral                   Oral
+JE-2                     16-24 months      0.5 ml
+                                                          Sub-cutaneous (Live    Left upper Arm
+                                                          attenuated vaccine)    (Live attenuated
+                                                                                 vaccine)
+
+                                                                                 Anterolateral
+                                                          Intramuscular(Killed   aspect of mid
+                                                          vaccine)               thigh (Killed
+                                                                                 vaccine)
+
+Vitamin A            16-18 months.          2 ml           Oral               Oral
+(2nd to 9th dose)    Then one dose          (2 lakh IU)
+                     every 6 months
+                     up to the age of 5
+                     years.
+DPT Booster-2        5-6 years              0.5 ml.        Intra-muscular     Upper Arm
+Td                   10 years & 16          0.5 ml         Intra-muscular     Upper Arm
+                     years
+*One dose if previously vaccinated within 3 years
+Note:
+    JE Vaccine is introduced in select endemic districts after the campaign.
+    The 2 to 9 doses of Vitamin A can be administered to children 1-5 years old during
+              nd    th
+
+
+       biannual rounds, in collaboration with ICDS.
+    PCV in selected states/districts: Bihar, Himachal Pradesh, Madhya Pradesh, Rajasthan &
+       Uttar Pradesh (selected districts), and in Haryana as state initiative
+

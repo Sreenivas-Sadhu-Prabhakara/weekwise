@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'none'; img-src 'self' data:; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; object-src 'none'">
+  <title>weekwise — pregnancy due date calculator with dated scan windows &amp; ANC visit schedule</title>
+  <meta name="description" content="Pregnancy due date calculator that turns your LMP or EDD into a dated, tickable week-by-week schedule — scan windows, ANC visits and Td doses, every row cited to MoHFW or NHS. Nothing leaves your browser.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="canonical" href="https://sreenivas-sadhu-prabhakara.github.io/weekwise/">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="author" content="Sreenivas Sadhu Prabhakara">
+  <meta name="keywords" content="pregnancy due date calculator, EDD calculator, LMP calculator, gestational age calculator, anomaly scan week, ANC visit schedule, Td vaccine pregnancy, antenatal appointment schedule, pregnancy week calculator, dating scan window">
+  <meta name="theme-color" content="#201512" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#FAF3F0" media="(prefers-color-scheme: light)">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="weekwise">
+  <meta property="og:title" content="weekwise — pregnancy due date calculator with dated scan windows &amp; ANC visits">
+  <meta property="og:description" content="Enter your LMP or due date — every scan window, ANC visit and Td dose dated, tickable and cited to MoHFW and NHS. The record never leaves your browser.">
+  <meta property="og:url" content="https://sreenivas-sadhu-prabhakara.github.io/weekwise/">
+  <meta property="og:locale" content="en_IN">
+  <meta property="og:image" content="https://sreenivas-sadhu-prabhakara.github.io/weekwise/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="weekwise — a 40-bead week strand with the current week lit in blush">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="weekwise — pregnancy due date calculator with dated scan windows &amp; ANC visits">
+  <meta name="twitter:description" content="Enter your LMP or due date — every scan window, ANC visit and Td dose dated, tickable and cited to MoHFW and NHS. The record never leaves your browser.">
+  <meta name="twitter:image" content="https://sreenivas-sadhu-prabhakara.github.io/weekwise/og-image.png">
+  <meta name="twitter:image:alt" content="weekwise — a 40-bead week strand with the current week lit in blush">
+
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+
+  <!-- Structured data (data blocks; not executable script) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "weekwise",
+    "description": "A pregnancy due date calculator that turns an LMP or EDD into a dated, tickable, printable week-by-week timeline of published prenatal milestones — scan windows, ANC visits and Td doses — every row cited to MoHFW or NHS with a verified-on date.",
+    "url": "https://sreenivas-sadhu-prabhakara.github.io/weekwise/",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Any (modern web browser)",
+    "browserRequirements": "Requires a modern web browser with JavaScript enabled.",
+    "isAccessibleForFree": true,
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "INR" },
+    "license": "https://opensource.org/licenses/MIT",
+    "author": { "@type": "Person", "name": "Sreenivas Sadhu Prabhakara" },
+    "softwareVersion": "0.1.0",
+    "featureList": [
+      "EDD from LMP (280-day rule) or LMP from a scan-dated EDD",
+      "Gestational age today as weeks+days, trimester and days to EDD",
+      "Dated scan windows, ANC visits, Td doses — MoHFW India or NHS England track",
+      "Every row cited to its source with a verified-on date",
+      "Tick milestones done with an optional done-on date, saved only in your browser",
+      "One-page A4 printable schedule to carry to the clinic",
+      "Runs 100% offline; the browser itself blocks any network send"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How is my pregnancy due date calculated from my last period?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "weekwise uses the 280-day form of Naegele's rule: EDD = first day of your last menstrual period (LMP) + 280 days (40 weeks). It assumes a regular 28-day cycle and accurate LMP recall. A dating-scan EDD is more accurate — enter it directly and the whole timeline recomputes from it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How accurate is a pregnancy due date?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An EDD is an estimate, not a prediction. Only 4.4% of babies come on their due date (Royal Berkshire NHS Foundation Trust, May 2026) — fewer than 1 in 20. Pregnancy normally lasts from 37 to 42 weeks from the first day of the last period. weekwise never predicts labour."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does weekwise send my pregnancy record anywhere? Does it work offline?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. weekwise runs entirely in your browser with a Content-Security-Policy of connect-src 'none' — the browser itself blocks any network send, so the record cannot leave your device. Everything is stored in this browser's localStorage only, and the page works fully offline."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When is the anomaly scan done on the NHS?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The NHS fetal anomaly (20-week screening) scan is offered between 18+0 and 20+6 weeks of pregnancy, per the NHS Fetal Anomaly Screening Programme handbook. weekwise turns that window into your own calendar dates from your LMP or EDD."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#timeline">Skip to my timeline</a>
+
+  <div class="banner" id="banner">
+    <div class="banner__inner">
+      <p><strong>Your obstetrician or midwife overrides this chart.</strong>
+        weekwise is informational only — it dates the published MoHFW and NHS schedule
+        windows from your LMP or EDD and gives no clinical advice beyond those cited windows.
+        Routine singleton pregnancies only; multiple, IVF and high-risk pregnancies follow
+        different plans this app does not model.</p>
+      <button class="btn btn--ghost" id="banner-dismiss" type="button">I understand</button>
+    </div>
+  </div>
+
+  <header class="hero" id="top">
+    <div class="brand">
+      <svg width="34" height="34" viewBox="0 0 34 34" aria-hidden="true">
+        <path d="M3 22 C 11 14, 23 14, 31 22" fill="none" stroke="#7A5A4E" stroke-width="1.6"/>
+        <circle cx="8"  cy="19.4" r="3.4" fill="#7A5A4E"/>
+        <circle cx="17" cy="17.6" r="4.6" fill="#C4756B" stroke="#9A4B42" stroke-width="1.4"/>
+        <circle cx="26" cy="19.4" r="3.4" fill="none" stroke="#7A5A4E" stroke-width="1.6"/>
+      </svg>
+      weekwise
+    </div>
+
+    <p class="eyebrow">LMP or EDD in &middot; dated, cited schedule out &middot; offline</p>
+    <h1>Pregnancy Due Date Calculator — Dated Week-by-Week Scan Windows &amp; ANC Visit Schedule from LMP or EDD</h1>
+    <p class="hero__lede">
+      Enter your LMP or due date — every scan window, ANC visit and Td dose dated, tickable
+      and cited to MoHFW and NHS, and the record never leaves your browser.
+    </p>
+
+    <div class="strand-wrap" aria-hidden="true">
+      <svg class="strand" id="strand" viewBox="0 0 1000 84" preserveAspectRatio="xMidYMid meet"></svg>
+    </div>
+    <p class="section-sub" id="strand-caption">The 40-bead strand — one bead per week of pregnancy. Enter a date below to light your current week.</p>
+  </header>
+
+  <main>
+    <!-- ============ INPUT ============ -->
+    <section id="plan" aria-labelledby="plan-h">
+      <h2 class="section-title" id="plan-h">Your dates</h2>
+      <div class="card">
+        <div class="mode-row">
+          <fieldset>
+            <legend>Start from</legend>
+            <label class="radio-pill"><input type="radio" name="mode" value="lmp" id="mode-lmp" checked> LMP (first day of last period)</label>
+            <label class="radio-pill"><input type="radio" name="mode" value="edd" id="mode-edd"> EDD from a dating scan</label>
+          </fieldset>
+        </div>
+
+        <label class="field" for="date-input" id="date-label">First day of your last period</label>
+        <input type="date" id="date-input" autocomplete="off">
+
+        <p class="formula" id="formula">
+          <strong>EDD = LMP + 280 days (40 weeks)</strong> — the 280-day form of Naegele&rsquo;s rule.
+          It assumes a regular 28-day cycle and accurate LMP recall.
+          <span id="formula-override">Scan dating overrides LMP dating: if your dating scan gave a due date, choose &ldquo;EDD from a dating scan&rdquo; and enter it directly.</span>
+        </p>
+
+        <fieldset>
+          <legend style="padding-top:16px">Guideline track — two separately cited schedules, never blended</legend>
+          <div class="track-toggle" role="group" aria-label="Guideline track">
+            <button type="button" id="track-mohfw" aria-pressed="true">MoHFW &middot; India</button>
+            <button type="button" id="track-nhs" aria-pressed="false">NHS &middot; England</button>
+          </div>
+        </fieldset>
+
+        <label class="field" for="name-input">Name on the printed sheet (optional — stays on this device)</label>
+        <input type="text" id="name-input" maxlength="60" autocomplete="off" placeholder="e.g. Ananya">
+      </div>
+    </section>
+
+    <!-- ============ TODAY ============ -->
+    <section id="today" aria-labelledby="today-h" hidden>
+      <h2 class="section-title" id="today-h">Today</h2>
+      <div class="card" aria-live="polite">
+        <p class="print-head" id="print-head"></p>
+        <div class="today-grid">
+          <div class="stat"><span class="k">Gestational age</span><span class="v ga-big" id="ga-out">—</span><span class="s" id="ga-sub">weeks + days</span></div>
+          <div class="stat"><span class="k">Trimester</span><span class="v" id="tri-out">—</span><span class="s" id="tri-sub"></span></div>
+          <div class="stat"><span class="k">Estimated due date</span><span class="v num" id="edd-out">—</span><span class="s" id="edd-sub">LMP + 280 days</span></div>
+          <div class="stat"><span class="k">Days to EDD</span><span class="v num" id="dte-out">—</span><span class="s" id="dte-sub"></span></div>
+        </div>
+        <p class="today-note" id="due-fact"></p>
+        <p class="today-alert" id="today-alert" hidden></p>
+      </div>
+    </section>
+
+    <!-- ============ ATTENTION ============ -->
+    <section id="attention-sec" aria-labelledby="attention-h" hidden>
+      <h2 class="section-title" id="attention-h">Windows that have passed unticked</h2>
+      <div class="card attention" aria-live="polite">
+        <p>These published windows are behind today&rsquo;s date and are not marked done.
+          <strong>Discuss them with your provider</strong> — replanning missed visits or scans
+          is your clinician&rsquo;s job, and this app never reschedules anything.</p>
+        <ul id="attention-list"></ul>
+      </div>
+    </section>
+
+    <!-- ============ TIMELINE ============ -->
+    <section id="timeline" aria-labelledby="timeline-h">
+      <h2 class="section-title" id="timeline-h">Your dated timeline</h2>
+      <p class="section-sub" id="timeline-sub">Enter your LMP or EDD above to turn the published windows into your own calendar dates. Tick what&rsquo;s done — ticks stay in this browser only.</p>
+      <div class="trust" id="trust-bar"></div>
+      <ol class="timeline-list" id="timeline-list"></ol>
+      <div class="btn-row no-print">
+        <button class="btn" id="print-btn" type="button">Print the A4 clinic sheet</button>
+      </div>
+    </section>
+
+    <!-- ============ SOURCES ============ -->
+    <section id="sources" aria-labelledby="sources-h">
+      <h2 class="section-title" id="sources-h">Every row, cited</h2>
+      <p class="section-sub">A dated snapshot of the MoHFW and NHS schedules. Guidelines get revised — confirm current advice at your clinic. Rows are transcribed verbatim from the staged source documents listed in the repository.</p>
+      <div class="trust" id="trust-bar-2"></div>
+      <div class="card" id="sources-list"></div>
+    </section>
+
+    <!-- ============ PRIVACY + DATA ============ -->
+    <section id="privacy" aria-labelledby="privacy-h">
+      <h2 class="section-title" id="privacy-h">Private by construction</h2>
+      <div class="card privacy">
+        <p>&ldquo;This record never leaves your browser&rdquo; is <strong>enforced, not promised</strong>:
+          this page ships a Content-Security-Policy of <code>connect-src 'none'</code>, so the browser
+          itself blocks any network send. No accounts, no analytics, no cloud. Your dates, ticks and
+          name live only in this browser&rsquo;s localStorage — clearing site data erases them.
+          The hospital record / MCP card remains the record of truth.</p>
+        <p style="margin-top:10px">There are no reminders or notifications of any kind — the chart only updates when you open it.</p>
+        <div class="btn-row">
+          <button class="btn btn--ghost" id="backup-btn" type="button">Download JSON backup</button>
+          <label class="btn btn--ghost" for="restore-input" style="display:inline-block">Restore from backup<input type="file" id="restore-input" accept="application/json" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)"></label>
+          <button class="btn btn--danger" id="erase-btn" type="button">Erase everything</button>
+        </div>
+        <p class="section-sub" id="data-msg" role="status"></p>
+      </div>
+    </section>
+
+    <!-- ============ HONEST LIMITS ============ -->
+    <section id="scope" aria-labelledby="scope-h">
+      <h2 class="section-title" id="scope-h">What this app will not do</h2>
+      <div class="card limits">
+        <ul>
+          <li><strong>No clinical advice.</strong> Your obstetrician/midwife overrides this chart — it only dates the cited published windows.</li>
+          <li><strong>An EDD is an estimate.</strong> Only 4.4% of babies come on their due date (Royal Berkshire NHS FT, May 2026) — the app never predicts labour.</li>
+          <li><strong>No replanning.</strong> Missed windows show as &ldquo;passed&rdquo;; the clinician replans. No reminders either — the chart only updates when opened.</li>
+          <li><strong>Routine singleton schedules only.</strong> Multiple, IVF and high-risk pregnancies follow different plans this app does not model, and there are no IVF/conception-date modes or cycle-length adjustments — the honest override is entering your scan EDD.</li>
+          <li><strong>No week-by-week fetal-development editorial</strong> (&ldquo;baby is the size of a mango&rdquo;) — that content is not citable to a guideline window, so it isn&rsquo;t here.</li>
+          <li><strong>No symptom checkers, kick counters or vitals logging</strong>, and no complication/high-risk pathway content.</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="foot-inner">
+      <p class="disclaimer">Informational only — not medical advice. Your paediatrician/obstetrician/midwife
+        overrides this chart. weekwise shows published MoHFW and NHS schedule windows verified on
+        <span id="foot-verified">2026-07-23</span> and gives no interpretation beyond those cited windows.
+        Guidelines change; confirm current advice at your clinic.</p>
+      <p>weekwise &middot; free &amp; open source (MIT) &middot; no network, no accounts, no tracking &middot;
+        data stays in this browser &middot; &copy; 2026 Sreenivas Sadhu Prabhakara</p>
+    </div>
+  </footer>
+
+  <script src="data/timeline.js"></script>
+  <script src="data/engine.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

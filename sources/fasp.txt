@@ -1,0 +1,4328 @@
+W
+
+ith
+
+dr
+a
+
+w
+
+n
+
+17
+
+Au
+
+gu
+
+st
+
+20
+21
+
+Fetal Anomaly
+
+Fetal Anomaly
+Screening Programme
+Handbook for ultrasound practitioners
+April 2015
+
+20
+
+1 Introduction
+
+21
+
+Contents
+1.1 Conventions
+
+5
+
+1.2 Related documents
+
+5
+
+gu
+st
+
+2 The Fetal Anomaly Screening Programme (FASP)
+
+n
+
+Public Health England (PHE) is responsible for the NHS Screening Programmes. PHE is an executive
+agency of the Department of Health and works to protect and improve the nation’s health and
+wellbeing, and reduce health inequalities.
+
+Twitter: @PHE_Screening
+© Crown copyright 2015
+Image sources: PHE photo library
+
+dr
+
+aw
+
+NHS Screening Programmes
+Floor 2, Zone B
+Skipton House
+80 London Road
+London SE1 6LH
+Tel: 020 368 20890
+www.screening.nhs.uk
+
+6
+
+2.2 Background
+
+6
+
+2.3 The policy
+
+6
+
+3 Screening tests
+
+8
+
+3.1 First trimester combined test
+
+8
+
+3.2 Second trimester quadruple test
+
+8
+
+3.3 National standards
+
+8
+
+Au
+
+17
+
+NHS Screening Programmes identify apparently health people who may be at increased risk or a
+disease or condition, enabling earlier treatment and better informed decisions. They are
+implemented on the advice of the UK National Screening Committee (UK NSC), which oversees
+screening policy in all four nations, and works with the different implementation bodies to support
+delivery.
+
+ith
+
+You may re-use this information (excluding logos) free of charge in any format or medium, under
+the terms of the Open Government Licence v.3. To view this licence, visit OGL or email psi@
+nationalarchives.gsi.gov.uk. Where third party material has been identified, permission from the
+respective copyright holder must be sought. Any enquiries regarding this publication should be sent
+to phe.screeninghelpdesk@nhs.net.
+
+6
+
+2.1 General principles of screening
+
+4 Markers used in screening tests
+
+About the NHS Screening Programmes
+
+5
+
+10
+
+4.1 Maternal age
+
+10
+
+4.2 Biochemical markers
+
+10
+
+4.3 Ultrasound markers
+
+11
+
+5 Screening risk
+
+12
+
+5.1 Risk cut-off
+
+12
+
+5.2 Risk calculation software
+
+12
+
+6 Role of the Screening Support Sonographer
+6.1 Functions
+
+13
+13
+
+7 Criteria for measuring NT and CRL
+
+14
+
+8 Departmental review of images
+
+16
+
+8.1 Rationale
+
+16
+
+8.2 Local quality assurance
+
+16
+
+8.3 Supplementary audit activities
+
+16
+
+8.4 The scoring process for departmental review of images
+
+16
+
+9 DQASS
+
+26
+26
+
+You can download this publication from www.screening.nhs.uk
+
+9.2 Information DQASS needs from laboratories
+
+26
+
+Gateway ref: 2015002
+
+9.3 DQASS reports
+
+27
+
+W
+
+9.1 Aims of DQASS
+
+27
+
+9.5 Completing blood test forms
+
+28
+
+9.6 Flag status
+
+29
+
+9.7 Managing red flags
+
+34
+
+9.8 Throughput (number of scans undertaken per cycle)
+
+35
+
+9.9 Guidance for managing red flag for throughput
+
+36
+
+9.10 Scenarios
+
+36
+
+37
+
+10.1 NHS model of training in NT and CRL measurements
+
+37
+
+10.2 Theory component
+
+37
+
+10.3 Practical component
+
+38
+
+11.1 Quality Improvement
+
+41
+
+11.2 Quality Assurance (QA)
+
+41
+
+11.3 Key performance indicators (KPIs)
+
+42
+
+11.4 Screening safety incidents
+
+42
+
+12 Information for the public
+
+43
+
+Glossary
+Tables, Diagrams and Images
+
+zz Patau’s syndrome as T13
+
+44
+
+a. Handbook for laboratories
+
+n
+aw
+dr
+
+zz Edwards’ syndrome as T18
+
+1.2 Related documents
+
+48
+
+ith
+
+zz Down’s syndrome is referred to as T21
+
+43
+
+47
+
+References
+
+W
+
+Throughout the document the following are
+used interchangeably:
+
+17
+
+Acknowledgments
+
+Appendices
+
+1.1 Conventions
+
+41
+
+Au
+
+11 Quality Improvement and Assurance
+
+Abbreviations
+
+The purpose of this handbook is to bring together in one
+publication the Fetal Anomaly Screening Programme’s
+(FASP) guidelines and recommendations that relate to the
+screening pathway and are not covered in detail in the
+other handbooks.
+
+gu
+st
+
+10 Education and Training
+
+1 Introduction
+
+20
+
+9.4 Contacting DQASS
+
+49
+
+50
+
+21
+
+1 Introduction
+
+This sets out the requirements for laboratory
+staff involved in the pathways for first trimester
+screening for Down’s, Edwards’ and Patau’s
+syndromes and second trimester biochemical
+screening for Down’s syndrome.
+
+c. Department of Health / NHS England
+Service – Specification for Screening for
+Down’s, Edwards’ and Patau’s syndromes
+(No. 16) and Specification for 18+0 to 20+0
+fetal anomaly scan (No.17)
+These outline the service and quality indicators
+expected by NHS England for the population for
+whom it is responsible and which meets the
+policies, recommendations and standards of the
+UK National Screening Committee (UK NSC). It is
+relevant for both commissioners and providers of
+the screening service to enable an understanding
+of the care pathway pregnant women should
+expect and how that service should be delivered.
+
+fetalanomaly.screening.nhs.uk/publications
+
+Both documents should be read in full to gain a
+better understanding of the expected roles and
+responsibilities for the various healthcare
+professionals involved in providing the screening
+pathway. These are updated annually and new
+versions posted to the website.
+
+b. Ultrasound Practitioner’s Handbook
+
+fetalanomaly.screening.nhs.uk/specification
+
+This sets out the requirements for ultrasound
+practitioners involved in the pathway for first
+trimester screening for Down’s, Edwards’ and
+Patau’s syndromes.
+fetalanomaly.screening.nhs.uk/publications
+
+d. Standards
+These define a set of standards relating to
+screening for Down’s, Edwards’ and Patau’s
+syndromes and the 18+0 to 20+6 week fetal
+anomaly scan.
+fetalanomaly.screening.nhs.uk
+
+5
+
+2 The Fetal Anomaly Screening Programme (FASP)
+
+2 The Fetal Anomaly Screening Programme
+(FASP)
+
+21
+
+FASP Programme Handbook April 2015
+
+of choice for both singleton and twin
+pregnancies is first trimester combined
+screening. Women can choose:
+
+2.2 Background
+NHS FASP, based in Public Health England, is an
+expert team that ensures national consistency
+and provides expertise. They support and
+manage on-going roll out, technical and
+professional development of the programme and
+ensure quality and safety standards are
+maintained and continuously improved.
+
+2.3 The policy
+
+FASP offers screening to all eligible pregnant
+women in England to assess the risk of the baby
+being born with Down’s, or Edwards’/Patau’s
+syndromes or a number of fetal anomalies
+(structural abnormalities of the developing fetus).
+FASP aims to ensure there is equal access to
+uniform and quality-assured screening across
+England and women are provided with high
+quality information so they can make an
+informed choice about their screening and
+pregnancy options. Education and training
+resources are available for staff covering all
+stages of the process, from informing women of
+test availability, through to understanding and
+supporting their decisions.
+
+dr
+
+The screening programme has evolved from its
+establishment in 2001 when the majority of
+screening was performed using maternal
+biochemistry in the second trimester. The
+recommended method of screening is now first
+trimester screening, combining maternal age,
+biochemistry and ultrasound measurement of
+fetal nuchal translucency to provide a pregnant
+woman with the risk of having a baby with
+Down’s, or Edwards’/Patau’s syndromes.
+
+ith
+
+The offer of a fetal anomaly scan is
+recommended and where accepted should be
+undertaken between 18+0 to 20+6 weeks of
+pregnancy. The fetal anomaly scan base menu
+sets out the fetal anatomy to be examined. The
+fetal anomaly scan screens for 11 conditions. For
+further information see section 5.6 of this
+handbook.
+
+gu
+st
+
+The first scan usually takes place between 10 to
+14 weeks and includes a blood sample taken to
+test for Down’s, Edwards’/Patau’s syndromes,
+with a second scan for fetal anomalies between
+
+Au
+
+www.screening.nhs.uk
+
+zz to have screening for T18 / T13 only
+
+17
+
+Further information regarding the general
+principles of screening can be found at:
+
+zz national standards, guidance and risk cut-off
+for Down’s, Edwards’ and Patau’s syndromes
+screening programme in the light of
+emerging evidence
+zz a statistical service to ensure that laboratories
+have access to the best advice in maintaining
+their population medians
+zz specifications for risk calculation software to
+make sure that all laboratories calculate risks
+in a uniform way
+zz use of a base menu and fetal cardiac protocol
+to enable consistency in the structures
+examined as part of the 18+0 to 20+6 week
+fetal anomaly scan
+
+n
+
+Screening is a process of identifying apparently
+healthy people who may be at increased risk of a
+disease or condition. They can then be offered
+information, further tests and appropriate
+treatment to reduce their risk and/or any
+complications arising from the disease or
+condition.
+
+zz to have screening for T21 only
+
+FASP has established standardisation of the
+following to enable commissioners and quality
+assurance teams to assess the quality of the
+service provided. These include:
+
+aw
+
+2.1 General principles of screening
+
+The screening policy is to offer screening to
+assess the risk of the baby being born with
+Down’s or Edwards’/Patau’s syndromes. The test
+
+18+0 to 20+6 weeks. The timing of the scans
+allows for further diagnostic tests if required and
+ensures women have time to consider decisions
+about continuing their pregnancy.
+
+20
+
+zz not to have screening
+
+zz to have screening for T21 and T18 / T13
+
+W
+
+6
+
+The second scan is designed to identify
+abnormalities which indicate the baby may die
+shortly after birth, conditions that may benefit
+from treatment before birth, to plan delivery in
+an appropriate hospital/centre and/or to optimise
+treatment after the baby is born. Some women
+may choose not to be screened at all, or only for
+some conditions and it is important that this
+choice is respected.
+
+7
+
+3 Screening tests
+
+3 Screening tests
+
+Table 1. National standards
+Screening strategy
+
+Thresholds
+
+Acceptable
+
+A maternal blood specimen may be taken (from
+10 weeks onwards) prior to the ultrasound scan.
+The biochemistry results can then be made
+available at the time of the NT scan and the
+combined test result can be calculated at the
+time of the appointment. Although the result
+may be calculated by the sonographer, it is
+recommended that the laboratory take primary
+responsibility for the risk calculation software
+and audit all results.
+
+There will always be a need for a screening test
+in the second trimester for those women who
+book too late for first trimester testing or when
+an NT measurement cannot be obtained in the
+first trimester. An ultrasound scan will be
+required to date the pregnancy and a fetal head
+circumference is the recommended
+measurement used for women presenting in the
+second trimester. Further information regarding
+the practicalities of a solution to combining
+dating and screening requirements at the early
+pregnancy scan are explored in more detail in
+the following article by Chudleigh et al (2011), a
+practical solution to combining dating and
+screening for Down’s syndrome.
+
+ith
+
+In cases where screening is accepted but it is not
+possible to obtain the NT measurement at the
+first appointment, at least one other attempt
+should be offered, this may be on the same day
+or at a later date. If it is not possible to obtain an
+accurate NT measurement despite ‘twice on the
+couch’ then further attempts do not have to be
+offered and the woman should be referred in to
+the second trimester screening pathway.
+
+3.3 National standards
+The national standards seen in Table 1 state the
+threshold for the national programme and will
+be reported on each year by DQASS.
+
+20
+
+Standardised SPR 1.9-2.4%
+
+Standardised SPR 2.5-3.5%
+
+Standardised SPR 2.7-3.3%
+
+Standardised DR 80%
+
+Standardised SPR 0.1-0.2%
+
+Standardised SPR 0.13-0.17%
+
+Standardised SPR 1.8-2.5%
+
+Standardised SPR 1.9-2.4%
+
+Standardised DR 80%
+
+gu
+st
+
+Quadruple (T21)
+
+*The DR and SPR for the quadruple test relate to singleton pregnancies only
+
+Au
+
+The quadruple test uses maternal age and four
+biochemical markers measured from 14+2 weeks
+until 20+0 weeks - AFP, hCG (total, intact or free
+beta subunit), uE3 and Inhibin-A. Although this
+combination of markers has a lower detection
+and standardised screen positive rate than the
+combined test, it is the nationally recommended
+screening strategy for the second trimester. The
+optimum time for testing in the second trimester
+is around 16 weeks of gestation.
+
+dr
+
+A maternal blood specimen may be taken at the
+time of the ultrasound scan and the combined
+test result made available within a few days of
+the biochemistry results being authorised by the
+laboratory.
+
+T21/T18/T13
+
+17
+
+The first trimester combined test allows earlier
+decision making for parents. In practice, two
+models are available for performing the
+combined test:
+
+T18/T13
+
+Achievable
+
+Standardised DR 85%
+
+Standardised SPR 1.8-2.5%
+
+3.2 Second trimester quadruple
+test
+
+n
+
+The combined test uses maternal age, the nuchal
+translucency measurement (NT) and two
+biochemical tests, free beta hCG and PAPP-A,
+together with the gestational age calculated
+from the crown rump length (CRL)
+measurement, to calculate the risk of the
+pregnancy being affected by T21 or T18/T13.
+The optimal time to perform the combined test
+is between 11+2 weeks to 14+1 weeks of
+gestation, which corresponds to a CRL of 45.0
+mm to 84.0 mm. If the ultrasound measurement
+shows that the CRL is less than 45.0 mm, the
+woman should be recalled for a further scan to
+measure the NT. If the CRL is greater than 84.0
+mm, the second trimester quadruple test should
+be offered.
+
+T21
+
+FASP recommends that the Down’s and/or
+Edwards’/Patau’s screening risk generated from
+first trimester combined screening must not to
+be recalculated up or down following the initial
+screening test or at the 18+0 to 20+6 fetal
+anomaly ultrasound scan due to the presence or
+absence of a single ultrasound marker of less
+predictive power than increased nuchal fold
+(Smith-Bindman et al, 2001).
+
+aw
+
+3.1 First trimester combined test
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+W
+
+8
+
+9
+
+4 Markers used in screening tests
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+4 Markers used in screening tests
+
+PAPP-A levels), as current evidence suggests that
+the biochemical marker levels are not
+significantly different in women with this history.
+
+Effect of ‘vanished twin’ on biochemical
+markers used in screening for Down’s,
+Edwards’ and Patau’s syndromes
+
+All women have a chance of having a baby with Down’s or Edwards’/Patau’s syndrome and this
+chance increases with age. Table 2 below shows that the older a mother, the more chance she has
+of having a baby with one of these conditions.
+
+When ultrasound shows there is an empty
+second pregnancy sac, the biochemical markers
+appear no different to those in a singleton
+pregnancy and the combined test of NT, PAPP-A
+and free beta hCG can be used to calculate the
+risk.
+
+Probability
+
+20 years
+
+1 in 1500
+
+0.07%
+
+30 years
+
+1 in 900
+
+0.1%
+
+40 years
+
+1 in 100
+
+1%
+
+4.2 Biochemical markers
+
+dr
+
+aw
+
+n
+
+17
+
+Figure 1: Graph to illustrate the likelihood of a pregnancy affected by Down’s, Edwards’ or Patau’s
+syndromes according to maternal age showing T21 (black line), T18 (blue line), T13 (green line).
+Risks are at the time of the 12 weeks scan.
+
+Information about biochemical markers can be found in the Handbook for Laboratories at:
+
+ith
+
+fetalanomaly.screening.nhs.uk/publications
+
+Effect of vaginal bleeding on biochemical markers used in screening for Down’s, Edwards’
+and Patau’s syndromes
+There are concerns that a history of significant maternal vaginal bleeding might change the levels of
+biochemical markers used in the combined test. FASP recommends women are offered the
+combined test in the normal way (calculating the risk based on maternal age, NT, free beta hCG and
+
+When ultrasound shows that there is a second
+sac containing a non-viable fetus (sometimes
+called ‘vanished’ twin), it is possible there could
+be a contribution to the maternal biochemical
+markers for many weeks. It is recommended
+that in this event services undertake the risk
+calculation based on the maternal age and
+nuchal translucency only (ie without
+biochemistry).
+
+Au
+
+Chances of having a
+pregnancy affected by
+Down’s syndrome
+
+gu
+st
+
+Table 2
+Maternal age
+
+as soon as they are available to support
+discussion of further investigative options with
+the woman.
+
+20
+
+4.1 Maternal age
+
+W
+
+10
+
+4.3 Ultrasound markers
+Nuchal translucency (NT)
+Nuchal translucency is the ultrasound
+appearance of a collection of fluid under the
+skin behind the neck of the fetus in the first
+trimester of pregnancy. The thickness of the
+nuchal translucency is measured by the
+sonographer and used in calculating the chance
+of the pregnancy being affected by Down’s and/
+or Edwards’/Patau’s syndromes. An increased NT
+measurement is associated with an increased
+chance of these autosomal trisomies as well as
+other fetal anomalies such as cardiac defects but
+as with all screening tests, a pregnancy with an
+increased NT may also have a normal outcome.
+Where screening in the first trimester using the
+combined screening strategy is accepted, the
+biochemical component of the test must be
+completed. Therefore, where an NT
+measurement of ≥3.5 mm is recorded, a blood
+sample must be taken but referral should not be
+delayed to await the biochemistry marker levels
+and results should be forwarded to the clinician
+
+Crown rump length (CRL)
+
+The gestational age of the fetus is calculated
+from the ultrasound measurement between the
+top of the head (crown) to the bottom of the
+buttocks (rump) known as the crown rump
+length (CRL). The gestational age in days can be
+calculated by the use of tables or an equation
+from the CRL measurement. Whilst it is
+acknowledged that the description of the first
+trimester screening test is primarily described
+within a gestational age timeframe (10+0 weeks
+to 14+1 weeks), entry into the screening
+programme within the laboratory should be
+based on CRL measurements of 45.0mm to
+84.0mm rather than gestational age of weeks
+and days. Because the concentration of the
+biochemistry markers is dependent on the
+gestational age of the fetus, it is important that
+the CRL is measured accurately.
+
+Head circumference (HC)
+If the CRL is greater than 84.0mm, it is
+recommended that the gestational age of the
+fetus is calculated using the fetal head
+circumference (HC). Ultrasound measurements
+of the biparietal diameter (BPD using ‘outer to
+outer’ calliper placement) and the occipitalfrontal diameter (OFD using ‘outer to outer’
+calliper placement) are used to calculate the
+head circumference which can then be used to
+date the pregnancy. Loughna et al (2009).
+Information about NHS training for competency
+in the measurement of nuchal translucency (NT)
+and crown-rump length (CRL) and the
+recommend measurements charts can be found
+at:
+fetalanomaly.screening.nhs.uk/
+combinedscreeningresources
+
+11
+
+5 Screening risk
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+5 Screening risk
+
+6 Role of the Screening Support
+Sonographer
+
+The software used to calculate the Down’s, and
+Edwards’/Patau’s syndromes risk from the
+biochemical and ultrasound markers is complex
+and best provided and supported by commercial
+suppliers. The screening programme developed
+a specification for the risk calculation software
+to be supplied to the English laboratories and
+which is available at:
+
+zz role of the Screening Support Sonographer
+(SSS)
+zz departmental review of images
+zz Down’s syndrome screening Quality
+Assurance Support Service (DQASS)
+zz education and training process
+zz quality assurance process
+
+n
+
+17
+
+This specifies in detail all the aspects that need
+to be incorporated into the software package to
+provide consistent risk results across the country.
+Some variables that need to be entered into the
+software are defined by the local user to take
+account of the reagents used for screening and
+the characteristics of the local population they
+are screening. These would normally be decided
+by the laboratory in collaboration with Down’s
+syndrome screening Quality Assurance Support
+Service (DQASS) – the statistical support service
+provided by Public Health England (PHE).
+
+ith
+
+dr
+
+aw
+
+The cut-off is based on a risk at term rather than
+a risk at the time of the screening test. The main
+reason for this is that the original studies on the
+likelihood of having a Down’s syndrome affected
+pregnancy is based on the birth prevalence of
+the condition before screening was
+implemented. There is a significant fetal loss rate
+between the time of screening and delivery but
+the loss rate is not exactly known. A risk at the
+time of screening would need to make
+
+20
+
+5.2 Risk calculation software
+
+fetalanomaly.screening.nhs.uk/dqass
+
+zz a risk for T21 and a risk for T18/T13
+zz a risk for T21 only or T18/T13 only
+
+To achieve the national standards and to ensure
+a high quality test it is imperative that the
+ultrasound measurements are accurate. To assist
+the service in achieving these key aims, this
+handbook sets out the following:
+
+gu
+st
+
+FASP defines the national cut off and this is
+currently set at 1 in150 at term for both first and
+second trimester screening tests. A woman with
+a risk of 1 in 150, or greater (1 in 2 – 1 in 150),
+of having a pregnancy affected by Down’s or
+Edwards’/ Patau’s in the first trimester or Down’s
+syndrome only in the second trimester is
+considered to be in the ‘higher risk’ group.
+Women in this group are offered diagnostic test
+such as chorionic villus sampling or
+amniocentesis to directly investigate the fetal
+chromosomes. Women having screening using
+the combined test, dependant of their screening
+choice, up to two risks will be reported:
+
+assumptions about the fetal loss rate during the
+various stages of pregnancy. This will be kept
+under review.
+
+The Screening Support Sonographer (SSS) role is
+pivotal in ensuring local providers offer a safe
+and effective service and in meeting the national
+targets set out in the service specification http://
+fetalanomaly.screening.nhs.uk/specification
+
+Au
+
+5.1 Risk cut-off
+
+W
+
+12
+
+Providers must have a nominated SSS or a
+designated person to carry out the functions.
+Each department should have a SSS and a
+deputy SSS. Throughout the handbook where
+the SSS is discussed this term also refers to the
+deputy SSS or designated individual.
+
+6.1 Functions
+The main functions of the SSS are:
+zz internal quality assurance – regular
+departmental review of images is an essential
+aspect of the role and will provide ongoing
+support to ensure improvements in practice
+can be achieved and maintained
+zz DQASS – liaise with the Down’s syndrome
+Screening Quality Assurance Support Service
+(DQASS) to facilitate a high quality local
+screening programme. DQASS also provides a
+statistical service in relation to screening for
+Edwards’ and Patau’s syndromes, however,
+the name will remain unchanged
+zz action plans – devise and implement
+supportive action plans where required.
+Monitor progress and resolution of these
+action plans
+zz communication – liaise with ultrasound
+practitioners, the Trust’s antenatal and
+newborn screening board, the screening
+laboratory, screening and immunisation lead
+and teams (SILs) and regional quality
+assurance team (RQAT)
+zz record keeping – maintains departmental
+records of training, support and both internal
+and external quality assurance
+zz training and support – involvement in the
+practical training and support of colleagues in
+relation to the measurement of NT and CRL
+
+13
+
+5 Screening risk
+
+7 Criteria for measuring NT and CRL
+
+Table 4 - Recommended criteria for measurement of CRL for pregnancy dating and combined
+screening (Loughna P et al (2009))
+Detail to be demonstrated
+
+Midline section
+
+• Sagittal section of the fetus with the head in line with the full length of
+the body
+• Echogenic tip of the nose
+
+NT
+
+Detail to be demonstrated
+
+Midline section
+
+• Horizontal sagittal* section of the fetus extending from crown to upper
+aspect of the heart which may be supine or prone**
+
+• Rectangular shape of the palate
+• Translucent diencephalon
+
+• CRL axis should be between 0° and 30° to the horizontal
+
+gu
+st
+
+• Head in line with the body with the NT visible along the length of the neck
+
+• Clearly defined crown and rump
+
+• Echogenic tip of the nose
+
+Position
+
+• Rectangular shape of the palate
+• Translucent diencephalon
+
+• Pocket of fluid, at least equivalent in size to the width of the palate,
+should be visible between the fetal chin and chest
+• Fetal palate angle should be 30º to 60º relative to the horizontal
+
+• Frontal process of the maxilla should not be visible
+
+• Nasal tip should be level or above the anterior abdominal wall
+
+• Angle of the palate relative to the horizontal should be
+between 30º and 60º
+• Nasal tip should be level with, or above, the anterior chest wall
+Magnification
+
+• The section should fill over 60% of the screen
+
+Calliper placement
+
+• Callipers should be placed on the upper and lower edges of the NT
+
+17
+
+• Widest part of the NT should be measured
+• The NT should be measured at least twice and the maximum measurement
+that meets the criteria should be recorded
+• The image demonstrating the measured NT which has been reported
+should be archived
+
+* In all criteria the term sagittal describes a midline longitudinal section
+
+ith
+
+dr
+
+aw
+
+n
+
+** FASP does not recommend screening for nasal bone absence or hypoplasia, thus allowing
+measurement of the NT with the fetus in the prone position
+
+Magnification
+
+• Entire CRL section should fill over 60% of the screen
+
+Calliper placement
+
+• Correct calliper placement on outer borders of crown and rump
+
+Au
+
+• Pocket of fluid, at least equivalent in size to the width of the palate, should
+be visible between the fetal chin and chest
+
+Image archiving
+
+CRL
+
+20
+
+Table 3 - Recommended criteria for measurement of NT for combined screening
+
+Position
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+W
+
+14
+
+Image archiving
+
+• Longest length of the fetus should be measured
+• The CRL should be measured at least twice and the maximum
+measurement that meets the criteria should be recorded
+• The image demonstrating the measured CRL which has been reported
+should be archived
+
+15
+
+5 Screening risk
+
+8 Departmental review of images
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+zz sample score sheets can be found in Appendix 1
+
+The role of the screening support sonographer (SSS) is to:
+zz perform quarterly departmental review of images
+zz record results as per local organisational policy
+zz feedback results of review to individual practitioners
+zz develop action plan for improvement if required
+zz prepare audit information for RQAT when required
+
+20
+
+Table 5 - Scoring images
+
+Number of components present
+
+Overall Score
+
+All 12 present
+
+GOOD
+
+gu
+st
+
+9 – 11 present (no more than 2 absent in a section)
+9 - 11 present (3 or more absent in a section) or
+8 or fewer present
+
+8.1 Rationale
+
+Taking part in three-monthly image review with
+the SSS and consulting the document entitled ‘A
+guide to getting the most from the ultrasound
+equipment when measuring Nuchal
+Translucency’ is strongly recommended.
+fetalanomaly.screening.nhs.uk/
+leafletsforprofessionals
+
+zz group review of a selection of images
+zz anonymised scored images shared within
+team
+zz each practitioner measures selected NT/CRL
+images previously stored on the ultrasound
+machine. Results are then compared and
+shared
+zz companion scanning – good for image
+optimisation, communication skills and time
+management
+zz sharing the overall departmental review with
+individual practitioners should also be
+considered
+
+aw
+
+8.4 The scoring process for
+departmental review of images
+
+The 12 components that make a good NT or
+CRL image are shown in tables 4 and 5 below.
+
+8.2 Local quality assurance
+
+zz each image is rated as either ‘good’,
+‘acceptable’ or ‘poor’ depending on the score
+obtained as shown in Table 3
+zz for an image to be considered good or
+acceptable at least 9 out of the 12
+components must be present (75%). In
+categories of more than one component,
+there should be no more than 2 components
+in each section absent
+zz examples of scored NT images are shown in
+Diagram 3 and of scored CRL images in
+Diagram 4
+
+ith
+
+dr
+
+zz each practitioner must have three randomly
+selected paired images (NT and CRL)
+reviewed every three months
+zz each image should be subjectively scored
+using the FASP image guidance tool
+zz each practitioner should receive timely
+feedback from the SSS
+zz evidence may be sought by the RQAT that, as
+a minimum, all components of the
+departmental image review is audited
+
+ACCEPTABLE
+
+POOR
+
+Suggested management following image review
+zz when all images score either ‘good’ or ‘acceptable’ this demonstrates evidence of good clinical
+practice
+zz when any one image scores ‘poor’ it is recommended that a further three paired images are
+reviewed
+
+Au
+
+The review process aims to encourage best
+practice and to assist and support ultrasound
+practitioners in making continuous
+improvements in their NT and CRL measurement
+technique and maintain best practice once
+achieved.
+
+These are designed to support and encourage
+best practice (not mandatory and not audited).
+
+17
+
+Departmental review of images is not designed
+to be a performance management tool but
+provides local quality assurance.
+
+8.3 Supplementary audit activities
+
+n
+
+Departmental review of images is equally as
+important as the DQASS statistical analysis of an
+individual’s NT and CRL measurements.
+
+W
+
+16
+
+If a practitioner continues to score ‘poor’ when these images are reviewed, it is recommended that
+the ultrasound practitioner has an individualised training plan to support improvements to their
+imaging and measurement techniques.
+Table 4 details the NT and CRL image components that should be analysed and scored using the
+following image guidance tool.
+
+17
+
+8 Departmental review of images
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Diagram 2 Where to place callipers for the NT measurement
+
+Table 6 - Image guidance tool for NT
+Sections
+
+Twelve Components to assess the NT image appearance
+
+Midline section
+
+1.
+
+20
+
+Horizontal sagittal section of the fetus extending from crown to include at least
+the upper aspect of the heart*
+
+2. Head in line with the body with the nuchal translucency visible along the length
+of the neck
+3. Echogenic tip of the nose
+4. Rectangular shape of the palate
+
+gu
+st
+
+5. Translucent diencephalon
+6. Frontal process of the maxilla should not be visible (see Diagram 1)
+7.
+
+Position
+
+Pocket of fluid, at least equivalent in size to the width of the palate, should be
+visible between the fetal chin and chest
+
+Measurement should be taken with the inner border of the horizontal of the callipers placed ON the
+line that defines the NT thickness. The crossbar of the calliper should be such that it is hardly visible
+as it emerges with the white line of the border. It should not be visible in the nuchal fluid.
+
+8. Angle of the palate relative to the horizontal should be between 300 and 600
+
+Magnification
+
+10. The section should fill over 60% of the screen
+
+Calliper
+placement
+
+11. Callipers should be placed on the upper and lower skin line (see Diagram 2)
+12. Widest part of the NT should be measured
+
+Diagram 3 Examples of scoring NT images
+
+Au
+
+9. Nasal tip should be level with, or above, the anterior chest wall.
+
+Image 1 Good
+
+17
+
+*Note the NT and CRL image guidance tool developed with the assumption that the fetus is supine.
+The image components can still be applied when the fetus is prone, although it may not be possible
+to score component 3 (echogenic tip of nose). Therefore when the fetus is prone an image score of
+‘good’ may not be achievable.
+Diagram 1 Images to show absence and presence of frontal process of maxilla
+
+Presence of frontal process of maxilla
+
+Component 6 = 
+
+Component 6 = X
+
+aw
+
+Frontal process of
+maxilla visible
+
+dr
+
+ith
+
+Frontal process of
+maxilla not visible
+
+n
+
+Absence of frontal process of maxilla
+
+W
+
+18
+
+Midline section
+
+Position
+
+Mag
+
+Callipers
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/12 components present
+
+Overall
+
+Good
+
+19
+
+8 Departmental review of images
+
+Image 2 Acceptable
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Au
+
+gu
+st
+
+20
+
+Image 3 Poor
+
+Midline section
+
+Position
+
+Mag
+
+Callipers
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+aw
+
+Acceptable
+
+ith
+
+dr
+
+6) Frontal process of the maxilla is present
+
+Overall
+
+n
+
+1
+
+11/12 components present
+
+17
+
+Midline section
+
+W
+
+20
+
+Position
+
+Mag
+
+Callipers
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+
+
+
+
+
+
+
+
+
+
+x
+
+x
+
+
+
+x
+
+
+
+x
+
+x
+
+Overall
+
+7/12 components present
+6) Frontal process of the maxilla is present
+7) No pocket of fluid under the chin
+9) Nasal tip below anterior chest wall
+11) Callipers are not correctly placed on the skin lines
+12) Widest part of the NT not measured
+
+Poor
+
+21
+
+8 Departmental review of images
+
+Table 7 - Image guidance tool for the CRL
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Diagram 4 Examples of scoring CRL images
+
+Sections
+
+Twelve Components to assess the CRL image appearance
+
+Midline section
+
+1.
+
+Image 4 Good
+
+20
+
+Sagittal section of the fetus with the head in line with the full length of
+the body
+
+2. Echogenic tip of the nose
+3. Rectangular shape of the palate
+4. Translucent diencephalon
+5. CRL axis should be between 0° and 30° to the horizontal
+Position
+
+7.
+
+gu
+st
+
+6. Clearly defined crown and rump
+Pocket of fluid, at least equivalent in size to the width of the palate,
+should be visible between the fetal chin and chest
+
+8. Fetal palate angle should be 30º to 60º relative to the horizontal
+9. Nasal tip should be level or above the anterior abdominal wall
+Magnification
+
+10. Entire CRL section should fill over 60% of the screen
+
+Calliper placement
+
+11. Correct calliper placement on outer borders of crown and rump
+
+ith
+
+dr
+
+aw
+
+n
+
+17
+
+Au
+
+12. Longest measurement of the fetus taken
+
+W
+
+22
+
+Midline section
+
+Position
+
+Mag
+
+Callipers
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/12 components present
+
+Overall
+
+Good
+
+23
+
+8 Departmental review of images
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Image 6 Poor
+
+Au
+
+gu
+st
+
+20
+
+Image 5 Acceptable
+
+Midline section
+
+Position
+
+Mag
+
+Callipers
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/12 components present
+
+17
+
+Midline section
+Overall
+
+n
+
+Acceptable
+
+ith
+
+dr
+
+aw
+
+4) Diencephalon absent
+
+W
+
+24
+
+Position
+
+Mag
+
+Callipers
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+x
+
+Overall
+
+8/12 components present
+1) the full length of the body is not present
+6) the rump is not clearly defined
+11) callipers are not correctly placed on the rump
+12) the longest measurement has not been taken
+
+Poor
+
+25
+
+9 DQASS
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+9 DQASS
+
+DQASS is a service commissioned by Public
+health England to support the NHS Fetal
+Anomaly Screening Programme.
+
+dr
+
+The analyses provided by DQASS are used to
+improve the performance of the screening
+through feedback on all aspects of the test to
+laboratories, ultrasound departments and
+commercial suppliers.
+
+A designated person in each laboratory should
+provide data for a 6-month period in Excel
+format with anonymised individual patient data
+contained in separate rows. Each column should
+correspond to a specific data field. The first row
+should contain the variable label. For the
+combined test, each row should correspond to a
+fetus. For the quadruple test each row should
+correspond to a pregnancy.
+
+n
+
+The main aim of DQASS is to monitor and
+support the quality and effectiveness of prenatal
+screening in England. DQASS provides feedback
+and support to laboratories, sonographers and
+to the FASP programme.
+
+9.2 Information DQASS needs
+from laboratories
+
+aw
+
+9.1 Aims of DQASS
+
+The ultrasound information required is listed
+below. Detailed information on the demographic
+and biochemical information can be found in the
+Laboratory handbook at:
+
+ith
+
+DQASS works on a rolling audit of screening test
+data on a six monthly cycle. The statistical
+analysis monitors the screening process at
+various levels; from the overall standardised
+screen positive rate at the top level to specific
+adjustments for ethnicity, smoking and other
+factors applied to individual biomarkers. Through
+meta-analyses DQASS provides information on
+effects of factors such a smoking that can be
+used to improve screening performance.
+
+gu
+st
+
+9.3 DQASS reports
+
+DQASS undertakes a range of statistical analysis on the data provided and produces reports
+summarising activity and performance.
+Laboratories receive detailed information on serum analyte performance and a summary ultrasound
+report of the departments they support.
+Ultrasound practitioners receive information on their paired NT and CRL distributions in relation to
+the FMF reference curve and a summary laboratory report will be sent to the SSS.
+
+17
+
+All screening laboratories are required to be part
+of this service and submit their data according to
+the schedule provided by DQASS.
+
+The laboratory should liaise with the screening support sonographer (SSS) to ensure that the DQASS
+ID codes for the sonographers are up to date and that the codes can be matched to an ultrasound
+department to enable feedback to be given.
+
+fetalanomaly.screening.nhs.uk/publications
+
+9.2.1 Ultrasound Scan
+zz scan date
+zz CRL mm (One decimal place)
+
+More information is available at fetalanomaly.screening.nhs.uk/dqass
+
+Au
+
+The role of the screening support sonographer (SSS) is to:
+zz inform DQASS and screening laboratory of new staff members
+zz inform DQASS and screening laboratory when a member of staff leaves the Trust
+zz ascertain from sonographers if they work at other sites and inform DQASS
+zz monitor throughput for each practitioner
+zz liaise with laboratory before submission to ensure all practitioner DQASS identity codes are
+correct and all information is up to date
+zz receive 6 monthly DQASS report and check for accuracy
+zz feedback to DQASS any omissions or errors so an updated report can be issued
+zz feedback DQASS reports to individual sonographers
+zz develop any red flag action plans with practitioner concerned
+zz document and organise any support/training required
+zz liaise with RQAT and SILs regarding red flags
+zz maintain departmental log of any practitioners who have combined cycle reports for
+throughput (for internal information only)
+zz inform agency sonographers that they are responsible and not DQASS for providing their
+agency with their DQASS report if it is required
+
+20
+
+zz HC mm (One decimal place)
+zz NT mm (One decimal place)
+zz DQASS Identity code of sonographer and USS department
+
+W
+
+26
+
+9.4 Contacting DQASS
+zz Only the SSS should contact DQASS
+zz Individual practitioners should not contact DQASS directly
+zz Contact via email using DQASS@plymouth.ac.uk
+zz DQASS should not be contacted to ask what date or time reports will be sent
+
+27
+
+9 DQASS
+
+Information required when contacting
+DQASS via email
+
+Table 8 - DQASS reports
+
+Ultrasound practitioners are responsible for
+ensuring the following information is included
+on the blood test form.
+
+zz date practitioner started working at the
+hospital unit
+zz is this the practitioner’s primary place of
+work? If ‘No’ where is this sonographer
+primarily based?
+zz previous place of work
+
+Sending 25 paired measurements for
+assessment
+zz practitioner’s Name
+zz practitioner’s DQASS identity code matched
+to an ultrasound department
+zz hospital Unit
+
+ith
+
+dr
+
+aw
+
+fetalanomaly.screening.nhs.uk/sssresources
+
+Information included
+
+Practitioner's DQASS identity code matched to an
+ultrasound department
+
+FASP (only red flags)
+
+Number of measurements
+Flag status
+
+Bias relative to FMF reference curve
+
+SSS
+
+Screening laboratory and time period covered by report
+
+Laboratory
+
+For each practitioner - DQASS identity code, number of
+scans, median NT, median CRL, median bias and flag
+status.
+
+gu
+st
+
+Ultrasound
+Department
+summary report
+
+FASP
+
+National QA team
+
+Laboratory
+summary report
+
+Regional QA team
+
+95% confidence intervals for estimated bias for each
+practitioner
+
+SILs via RQAT
+
+Previous cycle flag status
+
+Laboratory
+
+Number of pregnancies covered in the data set and the
+number with a risk given
+
+SSS
+NHS trust chief
+executives - all trusts
+using the laboratory
+FASP
+National QA Team
+
+Some software IT systems, allow practitioners to
+check their own distributions. For local
+organisations that do not have these IT systems,
+the simple Excel spreadsheet devised by DQASS
+and entitled NT diagnostic plot should be used
+to check individual distributions.
+
+n
+
+zz diagnostic plot
+
+Practitioner via SSS
+
+Au
+
+zz state that they require a trainee DQASS
+identity code
+
+FASP recommends that practitioners check their
+NT and CRL distributions at least once within the
+six-monthly DQASS QA cycle by performing a
+‘self-assessment’. This acts as either reassurance
+or a very helpful early warning sign by increasing
+awareness of their own performance and
+allowing them to take corrective action, if
+necessary, to improve their measurement
+technique.
+
+Individual
+practitioner
+report
+
+17
+
+Request a trainee DQASS identity code
+zz practitioner’s name
+zz hospital Unit
+
+Recipient
+
+National QA team
+(only red flags)
+
+zz unique DQASS identity code matched to an
+ultrasound department
+zz hospital name
+zz CRL/HC
+zz NT measurement
+zz gestational age
+zz date of ultrasound scan
+zz number of fetuses and chorionicity
+
+zz provide their unique DQASS identity code
+matched to an ultrasound department
+
+Report
+
+20
+
+9.5 Completing blood test forms
+
+Inform of a new staff member
+zz practitioner’s name
+zz hospital Unit
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+W
+
+28
+
+RQAT
+SILs via Regional QA
+team
+
+DQASS modelled screening performance (DR, FPR, SPR)*
+Data collected, ultrasound measurements and algorithm
+parameters used
+First trimester marker performance with reference to the
+NT comparison to the FMF reference curve
+NT MoM diagnostics
+Biochemistry estimated median values
+DQASS identity code compliance
+Recommendations and actions
+
+* Detection rate = DR
+
+False positive rate = FPR
+
+Screen positive rate = SPR
+
+9.6 Flag status
+Flags are assigned to a dataset of NT and CRL measurements. These flags indicate the bias of the
+dataset which is the extent of the measurement deviation from the Fetal Medicine Foundation (FMF)
+reference curve. The evidence used to develop the flag status derived from the impact on screening
+performance, (Kagan et al 2009).
+It is important to note that it is the data set that is flagged NOT the individual
+practitioner.
+Bias can usually be improved by developing a thorough understanding of the factors that affect it.
+Factors include:
+1. machine factors (level of sophistication, recent upgrades, servicing, local quality control (QC)
+arrangements)
+2. ambient light levels within the examination room exceeding Lux level 15
+
+29
+
+9 DQASS
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+4. departments where slave monitors are not available
+5. ultrasound practitioner’s eyesight
+6. ultrasound practitioners sharing the same DQASS identity codes
+
+An example of ‘green flag’ distribution plot (continue screening)
+
+7. very low numbers (less than 25) of NT measurements performed in a six-month period
+Diagram 5 Green bias
+
+8. practitioner under or over measuring the CRL
+9. practitioner under or over measuring the NT to maintain a bias to the FMF reference curve
+
+gu
+st
+
+10. practitioner’s improvements in measurement technique
+11. high-risk caseloads
+12. demographic factors (e.g. high prevalence of women with raised BMI)
+
+The flag system is designed to help the SSS to identify where to focus training efforts. It is important
+that all factors affecting the acquisition of high quality images are considered when agreeing an
+action plan to support ultrasound practitioners.
+Examples of distribution plots with flags assigned and how to interpret them can be found in this
+section.
+
+Table 9 - Flag category and bias
+Bias
+
+Green flag
+
+Assigned when bias is less than or equal to 0.10mm
+
+Amber Flag
+
+Assigned when bias is between 0.11mm and 0.40mm
+
+Red Flag
+
+Assigned when bias is greater than 0.40mm
+
+aw
+
+4
+
+Assigned if fewer than 25 paired CRL/NT measurements over 4 cycles
+Assigned if a trainee sonographer has fewer than 25 paired NT/CRL
+measurements
+
+dr
+
+No Flag
+
+n
+
+Flag type
+
+17
+
+FASP reviewed the bias deviation relative to the FMF reference curve ranges against the programmes
+quality agenda and assigned the following categories:
+
+Au
+
+13. automated measurements
+
+Red Flag with 4
+
+20
+
+zz for negative biases with magnitudes of 0.40mm or greater, there is a loss of 5% or more in the
+detection rate (DR)
+
+3. department workload and the time allocated to perform the scan
+
+ith
+
+zz each individual report demonstrates the NT and CRL measurements relative to the FMF reference
+curve
+zz bias describes the number of measurements above and below the FMF reference curve
+zz the bias is either negative in terms of under-measurement (below the FMF reference curve) or
+positive which refers to over-measurement (above the FMF reference curve)
+zz the evidence used to develop the flag status was derived from the impact on screening
+performance. For positive biases greater than 0.40mm, the standardised screen positive rate (SPR)
+exceeds 5% and increases the number of pregnancies exposed to the potential risks and anxieties
+associated with a screen positive result which may lead to invasive diagnostic procedures
+
+W
+
+30
+
+This report indicates a bias of 0.01mm relative to the FMF reference curve and satisfies the criteria
+for a green flag.
+This means there are an almost equal number of measurements above the curve (102 - 51%) as
+below (98 – 49%).
+
+31
+
+9 DQASS
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Example of ‘red flag’ distribution plot (assess the need for supervised practice)
+
+Diagram 6 Amber bias
+
+Diagram 7 Red Flag
+
+17
+
+Au
+
+gu
+st
+
+20
+
+An example of ‘amber flag’ distribution plot (continue screening)
+
+n
+
+This report indicates a negative bias of 0.25mm relative to the FMF reference curve and satisfies the
+criteria for an amber flag.
+
+ith
+
+dr
+
+aw
+
+This means there are more measurements below the curve (156 – 78%) than there are above (44 –
+22%).
+
+W
+
+32
+
+This report indicates a positive bias of 0.5mm relative to the FMF reference curve; therefore the data
+set is assigned a red flag.
+This means 92% (185) measurements plotted above the curve, with only 8% (15) plotted below.
+Bias can directly impact on the risk calculation women receive.
+This dataset indicates that there will be an increase in detection rate (91%), however, the
+standardised SPR is unacceptable and potentially could lead to approximately a 5% increase in
+invasive procedures performed on unaffected pregnancies.
+
+33
+
+9 DQASS
+
+9.7 Managing red flags
+
+NQAT maintains
+national log
+
+A red flag is issued in two cases
+1. bias – if individual bias is greater than 0.40mm
+
+DQASS assigns red flag for bias
+
+20
+
+RQAT
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+2. throughput – if fewer than 25 paired NT/CRL measurements are submitted over four cycles
+
+SSS informed
+
+Practitioner informed
+
+Both will potentially impact on detection and screen positive rates, therefore the SSS must inform
+the practitioner promptly and devise an urgent supportive action plan.
+
+SIL
+
+gu
+st
+
+The national quality assurance team maintains a national database of all DQASS identity codes
+assigned a red flag including training and intervention outcomes.
+The local organisation is responsible for ensuring the competency of their employees and should
+review the individual circumstances and training requirements.
+
+zz local review of images for new paired measurements against the FASP criteria
+
+17
+
+zz review equipment, environment, working practices, measurement technique, training and CPD
+within the last 12 months
+zz FASP recommends that any practitioner with a dataset assigned a red flag where it is established
+that additional practice support is required should not screen unsupervised until bias distributions
+are within the acceptable range following reassessment by DQASS and SSS
+zz SSS to devise a supportive action plan using the documentation provided in Appendix 2. The
+training plan should be completed within 12 weeks from commencement and it is recommended
+that this should include a period of supervised practice
+zz SSS to send a copy of the training plan to the RQAT, who in turn forward to SIL
+zz SSS to review new bias distribution and if within acceptable range send to DQASS for analysis
+
+n
+
+zz documentation of support, actions and progress to be maintained
+
+aw
+
+zz SSS to keep the RQAT and SIL informed of actions, progress and resolution. This may be done
+through the quarterly programme board
+
+Diagram 8 Flowchart for management of a red flag for bias
+
+Glossary
+Screening support sonographer
+
+DQASS
+
+Down’s Syndrome Screening Quality Assurance Support Service
+
+FASP 		
+
+Fetal anomaly screening programme
+
+NQAT 		
+
+National quality assurance team
+
+RQAT		
+
+Regional quality assurance team
+
+SIL 		
+
+Screening and immunisation lead
+
+ith
+
+dr
+
+SSS		
+
+Au
+
+Guidance for managing a red flag for bias
+zz SSS to inform the ultrasound practitioner and manager
+
+W
+
+34
+
+Review equipment, environment, working practices, measurement,
+technique, training and CPD within the last 12 months
+
+Action plan agreed
+(to include period of supervised practice)
+
+SSS review images and bias
+SSS send 25 paired measurements to DQASS to
+assess bias
+DQASS confirm acceptable bias to SSS
+(amber or green flag)
+
+SSS confirms bias and images acceptable
+
+Practitioner to recommence independent practice
+
+The SSS can consider including a range of educational and operational interventions when devising a
+supportive action plan. Some examples include:
+zz complete the online resources
+zz practical sessions with the SSS
+zz reminder of how the bias can impact on the risk calculation
+zz a session reviewing previous and current images using the image guidance tool
+zz ‘buddying’ alongside a colleague to gain confidence
+zz a review of the working environment, process and equipment
+
+9.8 Throughput (number of scans undertaken per cycle)
+zz practitioners must make an individual effort to ensure they meet the NHS minimum requirement
+of 25 paired NT and CRL measurements within each cycle. This is to ensure individuals remain
+competent and achieve NT measurement distributions within the acceptable range
+zz if an ultrasound practitioner does not meet the minimum number of measurements in a cycle,
+then the number of scans required from up to three previous cycles will be amalgamated with
+the current cycle to reach the minimum 25 required
+zz a departmental log of reasons why the cycles were combined should be maintained by SSS
+zz the bias will be calculated and any appropriate action plans should be applied
+zz if the amalgamated throughput is still less than 25 after combining four cycles then a red flag
+with a 4 will be issued
+
+35
+
+10 Education and Training
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+10 Education and Training
+
+zz the Trust should consider whether a practitioner with a red flag for throughput should continue
+participation in the NHS screening programme
+
+9.9 Guidance for managing red flag for throughput
+
+20
+
+The role of the screening support sonographer (SSS) is to:
+zz inform DQASS of a new practitioner’s details to obtain DQASS identity training code matched
+to an ultrasound department
+zz ensure online training is completed and record dates
+
+zz SSS to inform the ultrasound practitioner and manager/clinical director
+zz discussion as to whether it needs to be put on the Trust’s risk register must take place
+zz if necessary the SSS may escalate to the superintendent sonographer or head of midwifery
+zz SSS to devise a supportive action plan using the documentation provided in Appendix 3
+zz SSS to liaise with the RQAT and SIL for advice and support
+zz SSS to send action plan to the RQAT who in turn will send it to the SIL
+zz SSS to keep the RQAT and SIL informed of actions, progress and resolution
+zz documentation of support, actions and progress to be maintained
+zz discuss at both the local screening board and the quarterly programme board
+
+zz review images before sending paired measurements to DQASS
+
+gu
+st
+
+zz send 25 paired measurements to DQASS
+zz ensure ongoing review by all practitioners of online theory training resources and record dates
+
+FASP recommends that any practitioner
+undertaking a fetal anomaly ultrasound scan on
+pregnant women, for the purpose of screening
+and diagnosis of a related condition should hold,
+as a minimum, one of the following:
+
+9.10 Scenarios
+
+Number of paired
+measurements
+
+Bias
+
+Flag
+
+9898989
+
+25
+
+0.08
+
+Green
+
+7676767
+
+25
+
+-0.46
+
+Red
+
+5454545
+
+16
+
+-
+
+Red4
+
+17
+
+Table 10
+DQASS identity
+code
+
+zz Certificate/Diploma (as appropriate) in
+Medical Ultrasound (CMU/DMU) of the
+College of Radiographers (CoR) with
+evidence of appropriate continuous
+professional development (CPD)
+zz Post Graduate Certificate in Medical
+Ultrasound (PgCert) approved and validated
+by a Higher Institute of Education and
+accredited by the Consortium for
+Sonographic Education (CASE) or equivalent.
+The qualification should be relevant to
+obstetric ultrasound practice
+zz Royal College of Obstetricians and
+Gynaecologists (RCOG)/Royal College of
+Radiologists (RCR) Diploma in Obstetric
+Ultrasound or the Advanced Training Skills
+Module (ATSM)
+
+Au
+
+DQASS report received.
+
+n
+
+Practitioner 9898989 has been on long term sick and has only 8 paired NT/CRL measurements in
+current cycle.
+
+aw
+
+zz DQASS combines those with 17 measurements from previous cycle to get 25
+zz the bias is assessed and a green flag issued
+zz practitioner continues to practice as bias acceptable
+
+10.1 NHS model of training in NT
+and CRL measurements
+
+zz DQASS combines those from 2 previous cycles to get 25 measurements
+
+There are two components:
+
+dr
+
+Practitioner 7676767 has just returned from maternity leave and only has 4 paired NT/CRL
+measurements in current cycle.
+zz the bias is assessed and a red flag for bias is issued
+
+ith
+
+zz SSS to devise red flag action plan for bias
+
+Practitioner 5454545 performs very low number of obstetric scans and only has 2 paired NT/CRL
+measurements in current cycle.
+zz DQASS combines all measurements with the 3 previous cycles but the practitioner still has fewer
+than 25 measurements
+zz bias cannot be assessed and a red flag with a 4 is issued for throughput
+zz SSS to devise red flag action plan for throughput
+
+W
+
+36
+
+1. theory component
+2. practical component
+
+10.2 Theory component
+zz there are two online resources that contain
+current recommendations and guidance on
+screening
+
+zz both resources must be undertaken prior to
+starting practical training
+zz registration is required to access these
+modules and a certificate of completion is
+provided
+zz the SSS has access to audit staff completion
+of the resources. The certificate of
+completion does not indicate competency to
+perform the required measurements but
+indicates appropriate theory training is
+complete
+The theoretical modules include:
+zz Condensed Education Modules for Trisomy 21
+(CEMT21). An education module which aims
+to support health professionals who care for
+women and their families along the screening
+pathway. (60–90 minutes). To be completed
+every 24 months
+zz NT training resource. This resource supports
+practitioners undertaking the ultrasound
+component of the combined screening test
+(60–90 minutes). To be completed every 12
+months
+It is recommended that these resources are
+reviewed as part of continuous professional
+development to ensure all ultrasound
+practitioners remain informed of any guidance
+changes. A reminder will be sent one month in
+advance to each registered practitioner when it
+is time to review the modules.
+
+37
+
+10 Education and Training
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Assessment of competence to commence independent scanning lies with the
+organisation in which the ultrasound practitioner is working.
+
+10.3 Practical component
+
+Competency to undertake NT scans cannot and should not be assessed by review of
+the DQASS distribution plots alone.
+
+20
+
+This training is overseen by the SSS and it is
+important that some of the practical training
+sessions are with the SSS. The minimum practical
+training requirements are set out in Table 11.
+
+Diagram 9 Progression of training for practitioners new to NT measurement
+
+Action
+
+1-5 scans
+
+Observation
+
+10-20 scans
+
+Supervised by the SSS
+
+3-5 images
+
+Independently performed and reviewed with SSS
+as acceptable or good
+
+25 paired measurements
+
+SSS to send diagnostic plot to DQASS *
+
+* A diagnostic plot self-assessment tool is provided for practitioners to enter their 25 paired
+measurements. This must be used when the SSS sends the data to DQASS and can be found at
+fetalanomaly.screening.nhs.uk/SSSresources
+
+17
+
+n
+
+aw
+
+ith
+
+dr
+
+zz to commence practical training a unique
+identity code from DQASS is required
+zz ultrasound practitioners in some departments
+require a Fetal Medicine Foundation (FMF)
+code to access risk assessment software
+locally. Where this is the case, DQASS will use
+the FMF identity code for the practitioner but
+it is important to note that this only applies to
+FMF codes issued in England. Ultrasound
+practitioners with a FMF identity code from
+outside England will require a DQASS training
+code. The SSS’s plays a pivotal role in
+communicating with DQASS in these
+circumstances
+zz DQASS issues the unique DQASS identity
+code matched to an ultrasound department
+to the SSS with the suffix “T” to indicate a
+practitioner in training
+zz it is recommended that the training process
+should take no longer than six months and
+the training code “T” will remain valid for
+those six months. If training is not completed
+within six months then the reasons should be
+documented by the SSS and DQASS
+contacted to advise if an extension is required
+
+zz trainees should use their own DQASS identity
+code on the biochemistry form if their
+measurements are used
+zz it is not necessary for the supervising
+practitioner to use their DQASS identity code,
+unless they have re-measured the NT and/or
+CRL
+zz it is recommended that the qualified
+practitioner supervising the scan should also
+document their name on the ultrasound
+report along with the trainee
+zz ultrasound students who achieve a
+satisfactory bias must continue to use the
+training code “T” and have supervised
+practice until they have gained their obstetric
+ultrasound qualification
+zz a good practice point is for the trainee to visit
+their screening laboratory during their
+training period
+zz a sample training logbook is available in
+Appendix 4
+
+Au
+
+Number of scans/images/measurements
+
+gu
+st
+
+Table 11 - Practical training requirement
+
+W
+
+38
+
+Guidance for experienced practitioners from overseas
+All practitioners from overseas will require a unique DQASS identity code linked to an ultrasound
+department. They should then follow the guidance for new staff.
+
+Guidance for new staff and experienced practitioners with a break in clinical practice
+Practitioners will vary in experience, academic knowledge and previous level of training; it is
+therefore acknowledged that the level of support required may also vary.
+
+Recommendations
+zz if new staff member, SSS to email DQASS and screening laboratory with details
+zz practical support should be decided on an individual basis with the SSS
+zz SSS to document any decisions on training and support that may be required
+zz both online theoretical resources are reviewed
+zz SSS review images as satisfactory
+zz 25 paired measurements sent to DQASS for assessment
+zz SSS confirm practitioner is approved to continue screening
+
+39
+
+11 Quality Improvement and Assurance
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+11 Quality Improvement and Assurance
+
+zz a sample return to practice logbook is available in Appendix 4
+
+Table 12 - Summary of training requirements
+Training Requirement
+
+Experienced
+practitioner
+returning to practice
+or new staff member
+
+• Online NHS NT resource
+
+The role of the screening support sonographer (SSS) is to:
+zz liaise with local antenatal and newborn screening board and attend meetings
+
+20
+
+Staff member
+
+zz provide evidence of departmental review of images audits
+zz provide other evidence requested by the QA team
+
+• Online CEM T21 course
+
+zz work closely with screening laboratory
+
+gu
+st
+
+• Period of supported practice is required
+• Images reviewed with SSS
+
+11.1 Quality Improvement
+
+• SSS to send 25 paired measurements to DQASS
+• SSS confirm may continue screening
+Trainee
+
+Each local programme must have clear
+arrangements for managing quality and have a
+systematic approach to quality improvement.
+
+• DQASS provide identity training code linked to a department
+• Online NHS NT resource
+• Online CEM T21 course
+
+Participation in regional quality assurance activity
+is in addition to routine departmental quality
+improvement (such as failsafe checks,
+departmental audit, learning and development)
+and regular, informal contact with QA teams. It
+is not intended to preclude local initiatives or
+more detailed internal scrutiny of professional
+performance.
+
+Au
+
+• Visit screening laboratory
+• Supported practical training
+• Images reviewed with SSS
+• SSS to send 25 paired measurements to DQASS
+• SSS confirm may continue screening
+
+17
+
+• If student – continued supervised practice until qualified
+
+Screening Matters
+
+aw
+
+n
+
+Screening Matters is the newsletter of the UK NSC. It is aimed at everyone involved in screening policy makers, commissioners, providers and wider public health professionals. It covers evidence
+and policy development, training and education, quality assurance and IT and information, as well as
+providing updates on all the antenatal, newborn and young persons and adult screening
+programmes in England. It is published three times a year - in February, June and October.
+
+ith
+
+dr
+
+You can register to receive screening matters at www.screening.nhs.uk/screeningmatters
+
+W
+
+40
+
+A local programme, which has effective
+departmental QA processes in operation, will be
+well placed to respond with minimum effort to
+scheduled QA assessments.
+
+11.2 Quality Assurance (QA)
+Each NHS screening programme has a defined
+set of standards that providers have to meet to
+ensure that local programmes are safe and
+effective. Quality assurance (QA) is the process
+of checking that these standards are met and
+encouraging continuous improvement and
+includes:
+zz advice on the development of national quality
+standards
+zz monitoring of how services meet (or fail to
+meet) standards
+zz providing expert screening advice for incident
+management
+zz facilitating quality review of services,
+including peer advice
+zz support on a day-to-day basis, those involved
+in commissioning or providing screening
+services.
+
+QA covers the entire screening pathway; from
+identifying who is eligible to be invited to
+screening, through to referral and treatment
+where required/appropriate.
+The aim of QA in NHS antenatal and newborn
+screening programmes is the maintenance of
+minimum standards and the continuous
+improvement in the performance of all aspects
+of screening to ensure that all women and their
+babies have access to high quality screening
+wherever they live. QA is essential in order to
+minimise harm and maximise benefits of
+screening.
+Formal QA visits to a local screening programme
+provide the forum for a peer review of the
+whole multidisciplinary screening pathway, and
+an assessment of the effectiveness of team
+working within the local screening programme
+and associated referral sites.
+zz regional teams advise providers and
+commissioners about reducing risks in local
+screening programmes
+zz they assess the robustness of local
+arrangements through audit, as part of peer
+review and in the investigation of any
+incidents as they occur
+zz they act as a conduit for information and
+dialogue at national, regional and local levels,
+additionally sharing good practice
+zz participation in a formal process of QA is the
+responsibility of each local screening
+programme
+zz the performance of the local programmes is
+monitored in a variety of ways such as review
+of statistics, regional meetings or informal
+
+41
+
+12 Information for the public
+
+A copy of STFYAYB can be accessed at www.screening.nhs.uk/annbpublications
+
+Acknowledgments
+
+The Fetal Anomaly Screening Programme expresses thanks to members of the Laboratory &
+Ultrasound Group who contributed to the production of this handbook.
+
+More information about managing screening
+safety incidents is available at:
+www.screening.nhs.uk/incidents
+cpd.screening.nhs.uk/incident-resource
+
+Lessons to be learnt from screening incidents
+can be found at:
+
+More information on KPIs can be found at
+www.screening.nhs.uk/kpi
+
+20
+
+Key performance indicators (KPIs) for the NHS
+screening programmes were introduced to
+provide a way of measuring how well the
+screening programmes are doing in important
+areas. They contribute to the quality assurances
+of screening programmes but are not, in
+themselves, sufficient to quality assure or
+performance manage screening services. They
+help local screening services to identify potential
+problems so they can be put right and have led
+to changes in practice and implementation of
+measures to prevent errors occurring in the
+screening pathway.
+
+Screening Tests for You and Your Baby (STFYAYB) is the recommended information booklet covering
+both antenatal and newborn screening. Each screening programme is described in a standard
+format. This makes it easier for the public to compare the various tests and, crucially, to understand
+that some decisions are more complex than others.
+
+gu
+st
+
+11.3 Key performance indicators
+(KPIs)
+
+12 Information for the public
+
+A screening safety incident can affect
+populations as well as individuals. It is an actual
+or possible failure in the screening pathway and
+at the interface between screening and the next
+stage of care. Although the level of risk to an
+individual in an incident may be low, because of
+the large numbers of people offered screening,
+this may equate to a high corporate risk. It is
+important to ensure that there is a proportionate
+response based on an accurate investigation and
+assessment of the risk of harm. Due to the
+public interest in screening, the likelihood of
+adverse media coverage with resulting public
+concern is high even if no harm occurs.
+
+www.screening.nhs.uk/si-learning
+
+17
+
+11.4 Screening safety incidents
+
+Au
+
+visits to local programmes, all of which offer
+a valuable insight into the activity of a local
+programme
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+ith
+
+dr
+
+aw
+
+n
+
+A screening safety incident is any unintended or
+unexpected incident(s) that could have or did
+lead to harm to one or more persons who are
+eligible for NHS screening; or to staff working in
+the screening programme.
+
+W
+
+42
+
+43
+
+Glossary
+
+An invasive procedure undertaken from about
+15 completed weeks (15+0) onwards to obtain a
+sample of amniotic fluid (liquor) surrounding the
+fetus. Using an aseptic technique whilst under
+continuous ultrasound guidance, a sterile needle
+is passed through the mother’s abdomen, uterus
+and amniotic sac. A sample of amniotic fluid is
+aspirated with a syringe and sent for analysis to
+test for a range of chromosomal and inherited
+disorders. Out of 100 women who have this test
+from 15 weeks it is likely that one will miscarry
+as a direct consequence of the procedure.
+
+protein-A (PAPP-A), and free beta human
+chorionic gonadotrophin (Free beta hCG).
+Together with the mother’s age and the
+gestation of the pregnancy, these are used to
+estimate the chances that the fetus is affected
+with Down’s syndrome.
+
+A screening test offered to pregnant women to
+monitor the growth and development of the
+fetus before birth by producing a real-time visual
+image. Scans before 16 weeks are useful for
+dating and assessing the viability of the
+pregnancy (and are able to detect some major
+malformations). Detailed scanning at 18 weeks,
+0 days to 20 weeks, 6 days should show up
+most malformations as well as some minor ones.
+
+Ultrasound measurement between the top of
+the head (crown) to the bottom of the buttocks
+(rump)
+Detection rate
+
+Second trimester test to calculate the risk of
+Down’s syndrome, usually based on the
+measurement of AFP, uE3, free b-hCG (or total
+hCG), and inhibin-A together with the woman’s
+age.
+
+A disorder caused by the presence of an extra
+copy (three instead of two) of chromosome 21. It
+affects all population groups and is distinguished
+by a number of features occurring together
+including low muscle tone, a face that appears
+flatter with eyes slanting upward, small ears and
+an unusually wide neck and a deep crease across
+the palm of the hand. Some may have heart
+problems or visual problems or may develop
+Alzheimer’s disease. Although people with
+Down’s syndrome have learning difficulties,
+these vary in severity.
+
+Invasive diagnostic procedure
+
+A system for monitoring and maintaining high
+standards in every aspect of a screening
+programme.
+
+Edwards’ Syndrome (trisomy 18)
+
+Nuchal scan (Nuchal transluscency scan NT)
+
+Down’s Syndrome (trisomy 21)
+
+dr
+
+An abdominal or cervical procedure performed
+under continuous ultrasound guidance after 10
+completed weeks in pregnancy to obtain a
+sample of placental tissue for chromosomal or
+genetic analysis. The range of chromosomal and
+genetic conditions that can be detected is similar
+to those for amniocentesis. For every 100
+women who have this test one will miscarry.
+
+aw
+
+Chorionic Villus Sampling (CVS)
+
+A syndrome caused by the presence of an extra
+copy (three instead of two) of chromosome 18.
+The combination of features present in babies
+affected with trisomy 18 can lead to many
+different problems including growth deficiency,
+feeding and breathing difficulties, developmental
+delays, learning difficulties, undescended testes
+in males, kidney malformations, heart defects.
+They may also have malformations in the bones.
+
+ith
+
+Between 11 weeks and 2 days and 14 weeks
+and 1 day of pregnancy, a combination of the
+nuchal scan measurement and a blood sample
+from the mother which measures the
+concentration of pregnancy associated plasma
+
+Relating to the period before birth
+
+The duration of an ongoing or completed
+pregnancy, measured from the first day of the
+last menstrual period (usually about two weeks
+longer than that measured from conception).
+Gestational age is usually measured in weeks
+and days.
+
+n
+
+Analytes (commonly referred to as markers)
+measured by the laboratory that are used to
+calculate the likelihood of a pregnancy being
+affected by a condition or syndrome.
+
+Prenatal
+
+Quadruple test
+
+17
+
+Biochemical markers
+
+A disorder caused by the presence of an extra
+copy (three instead of two) of chromosome 13.
+The disorder is characterised by low birth
+weight, cleft lip or palate, defects of the heart,
+eye structure, spine, scalp and abdomen,
+abnormal genitalia, low set ears, abnormal palm
+pattern, extra digits and overlapping of fingers
+over thumb. Between 80 per cent and 90 per
+cent of babies do not survive infancy and those
+that do survive have learning disabilities.
+
+Gestational age
+
+Refers to the process involved in obtaining a
+definite diagnosis. For example the diagnostic
+test on an amniocentesis sample (invasive
+procedure) is the full karyotype or QF-PCR.
+
+An aberration or change often used related to a
+gene or physical structure that may or may not
+result in a disease or condition.
+
+Combined test
+
+Fetal anomaly ultrasound scan
+
+Crown rump length (CRL)
+
+Diagnostic test
+
+Anomaly
+
+Patau’s Syndrome (trisomy 13)
+
+Au
+
+Also known as ‘liquor’, this is the fluid
+surrounding the fetus during pregnancy. It
+contains substances and cells from the fetus,
+which can be removed by amniocentesis and
+examined.
+
+Fetal anomaly
+
+Structural abnormalities with how the fetus has
+developed.
+
+The proportion of affected individuals with a
+positive screening result.
+
+Amniotic fluid
+
+that particular pregnancy. If the chance is one in
+150 or higher a diagnostic test, such as CVS, will
+be offered.
+
+gu
+st
+
+Amniocentesis
+
+Survival of infants with trisomy 18 depends on
+how severely they are affected. Most do not
+survive the first year of life.
+
+20
+
+Glossary
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+W
+
+44
+
+A method used to obtain a sample used to aid
+diagnosis , for example, amniocentesis or
+chorionic villus sampling.
+Marker
+An identifiable physical location on a
+chromosome whose inheritance can be
+monitored. Markers can be expressed regions of
+DNA (genes) or some segment of DNA with no
+known coding function but whose pattern of
+inheritance can be determined.
+
+Between 11 weeks and 2 days and 14 weeks
+and 1 day of pregnancy the thickness of fluid in
+the tissue space within the nape of the fetal
+neck, the nuchal translucency can be measured.
+An increased amount of fluid may indicate that
+the fetus has Down’s syndrome, structural or
+genetic anomaly. By combining the mother’s age
+and the gestation of the pregnancy with
+information from the scan an individual
+statistical chance of an anomaly can be given for
+
+Quality assurance (QA)
+
+Risk
+Risk is usually taken to mean the chance of an
+event happening. It can be be expressed in a
+number of ways, see diagrams in the UK NSC
+Resource Cards for Midwives Nos 3 and 5.
+Risk cut-off
+Determines those women who are in the ‘higher
+risk’ group and considered ‘screen positive’.
+Screen positive rate (SPR)
+The number of women who receive a higher risk
+result.
+Screening
+Testing people who do not have or have not
+recognised the signs or symptoms of the
+condition being tested for, either with the aim of
+reducing risk of an adverse outcome, or with the
+aim of giving information about risk.
+
+45
+
+Tables, Diagrams and Images
+
+Screening pathway
+
+Screening test
+
+The whole system of activities needed to deliver
+high quality screening. It ranges from identifying
+and informing those to be offered screening
+through to the treatment and follow up of those
+found to have abnormality, and support for
+those who develop disease despite screening
+
+A test or inquiry used on people who do not
+have or have not recognised the signs or
+symptoms of the condition being tested for. It
+divides people into low and higher risk groups.
+
+Screening safety incident
+
+Page 9
+
+Syndrome
+
+Table 2
+
+Maternal age and chance/probability of having a pregnancy affected by Down’s
+syndrome
+
+Page 10
+
+Combination of symptoms and signs grouped
+together to form a disorder.
+
+Table 3
+
+Recommended criteria for measurement of NT for the purposes of combined
+screening
+
+Page 14
+
+Table 4
+
+Recommended criteria for measurement of CRL for purposes of pregnancy
+dating and combined screening
+
+Page 15
+
+Table 5
+
+Scoring images for departmental review of images
+
+Page 17
+
+Table 6
+
+Image guidance tool for NT
+
+Page 18
+
+Table 7
+
+Image guidance tool for the CRL
+
+Page 22
+
+Table 8
+
+DQASS reports
+
+Page 29
+
+Table 9
+
+Flag category and bias
+
+Page 30
+
+Table 10
+
+Scenarios
+
+Page 36
+
+Table 11
+
+Practical training requirement
+
+Page 38
+
+Table 12
+
+Summary of training requirements
+
+Page 40
+
+Diagram 1
+
+Images to show absence and presence of frontal process of maxilla
+
+Page 18
+
+Diagram 2
+
+Where to place callipers for the NT measurement
+
+Page 19
+
+Diagram 3
+
+Examples of scoring NT images
+
+Page 19
+
+Diagram 4
+
+Examples of scoring CRL images
+
+Page 23
+
+Diagram 5
+
+Example of ‘green flag’ distribution plot
+
+Page 31
+
+Diagram 6
+
+Example of ‘amber flag’ distribution plot
+
+Page 32
+
+Diagram 7
+
+Example of ‘red flag’ distribution plot
+
+Page 33
+
+Diagram 8
+
+Flowchart for management of a red flag for bias
+
+Page 35
+
+Diagram 9
+
+Progression of training for practitioners new to NT measurement
+
+Page 39
+
+Image 1
+
+Images to show absence and presence of frontal process of maxilla – Good
+
+Page 19
+
+Image 2
+
+Images to show absence and presence of frontal process of maxilla –
+Acceptable
+
+Page 20
+
+Image 3
+
+Images to show absence and presence of frontal process of maxilla – Poor
+
+Page 21
+
+Image 4
+
+Examples of scoring CRL images – Good
+
+Page 23
+
+Image 5
+
+Examples of scoring CRL images – Acceptable
+
+Page 24
+
+Image 6
+
+Examples of scoring CRL images – Poor
+
+Page 25
+
+Throughput
+Number of samples undertaken per cycle
+Trisomy
+Three copies of a particular chromosome rather
+than the usual pair.
+Ultrasound scan
+A ultrasound scan is a safe and painless test that
+uses sound waves to make images. It is like
+radar.
+
+n
+aw
+dr
+ith
+
+20
+
+National standards for screening tests
+
+17
+
+An unintended or unexpected incident(s) that
+could have or did lead to harm to one or more
+persons who are eligible for NHS screening; or to
+staff working in the screening programme.
+
+Table 1
+
+gu
+st
+
+The whole system of activities needed to deliver
+high quality screening. It ranges from identifying
+and informing those to be offered screening
+through to the treatment and follow up of those
+found to have abnormality, and support for
+those who develop disease despite screening
+
+Tables, Diagrams and Images
+
+Au
+
+Screening programme
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+W
+
+46
+
+47
+
+Abbreviations
+
+Abbreviations
+
+zz Smith-Bindman R,Hosmer W, Feldstein VA, Deeks JJ, Goldberg JD. Second-trimester ultrasound
+to detect fetuses with Down syndrome: a meta-analysis. JAMA 2001; 285:1044-55.
+zz Chudleigh T, Loughna P and Evans T ( 2011) A practical solution to combining dating and
+screening for Down’s syndrome Ultrasound 2011; 19: 154–157
+zz Loughna P, Chitty L, Evans T, Chudleigh T (2009) Fetal size and dating: charts recommended for
+clinical obstetric practice, Ultrasound 17: 161-167
+zz (Kagan et al (2009) Effect of deviation of nuchal translucency measurements on the performance
+of screening for Trisomy 21 Ultrasound in Obstetrics & gynaecology 33:657-664
+
+AFP
+BPD
+CEMT21
+CPD
+
+Alpha fetoprotein
+
+Biparietal Diameter
+
+Condensed Education Modules for Trisomy 21
+Continuous professional development
+Crown Rump Length
+
+DQASS
+
+Down’s syndrome screening Quality Assurance Support Service
+
+DR
+
+Detection rate
+
+FASP
+
+Fetal Anomaly Screening Programme
+
+FMF
+
+Fetal Medicine Foundation
+
+FPR
+
+False Positive Rate
+
+HC
+
+Head Circumference
+
+hCG
+
+Human chorionic gonadotrophin
+
+KPI
+
+Key Performance Indicator
+
+MoM
+
+Median multiple of the median
+
+NT
+
+Nuchal Translucency measurement
+
+OFD
+
+Occipital-frontal diameter
+
+PAPP-A
+
+Pregnancy associated plasma protein – A
+
+PHE
+
+Public Health England
+
+QA
+
+Quality Assurance
+
+RQAT
+
+Regional Quality Assurance Team
+
+SIL
+
+Screening and Immunisation Lead
+
+SIT
+
+Screening and Immunisation Team
+
+SPR
+
+Screen Positive Rate
+
+SSS
+
+Screening Support Sonographer
+
+STFYAYB
+
+Screening Tests for You and Your Baby
+
+T
+
+Trisomy
+
+uE3
+
+Unconjugated oestriol
+
+UK NSC
+
+United Kingdom National Screening Committee
+
+gu
+st
+
+CRL
+
+Au
+17
+n
+aw
+dr
+ith
+
+20
+
+References
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+W
+
+48
+
+49
+
+5
+6
+7
+8
+9
+10
+11
+12
+
+Translucent diencephalon
+Frontal process of maxilla not
+visible
+Pocket of fluid under chin visible
+Palate angle 30 - 60°
+Nasal tip level or above chest
+wall
+Fills over 60% of the screen
+Callipers on upper and lower
+skin line
+Measure widest part of NT
+
+Comments
+
+20
+
+Appendix 1. Score sheets
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Outcome
+
+4
+
+Documentation of evidence: Return to practice logbook
+
+Rectangular shape of the palate
+
+Appendix 5
+
+3
+
+Documentation of evidence: Training logbook for New Practitioners
+
+Echogenic tip of the nose
+
+Appendix 4
+
+2
+
+Red Flag Action Plan for Throughput
+
+Head in line with body, visible
+skin line
+
+Appendix 3
+
+NT score sheet
+
+1
+
+Red Flag Action Plan for Bias
+
+Horizontal mid sagittal section
+
+Appendix 2
+
+Patient ID
+
+gu
+st
+
+Score sheets for NT and CRL
+
+Assessor
+
+Sonographer ID
+
+Au
+
+Appendix 1
+
+Date of review
+
+17
+
+Appendices
+
+NT score sheet for Image Review
+
+n
+
+aw
+
+dr
+
+ith
+
+W
+
+50
+Appendix 1. Score sheets
+51
+
+Appendix 2. Red flag action plan (bias)
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Appendix 2. Red flag action plan (bias)
+
+CRL score sheet
+
+20
+
+Suggested action plan for practitioners assigned a red flag for bias
+Practitioner DQASS identity code
+Audit cycle number
+Name of SSS
+
+Name of local organisation/NHS trust
+
+gu
+st
+
+Date
+
+FASP recommends that an individual training plan be negotiated between SSS and practitioner
+
+Sonographer ID
+
+Action
+
+Au
+
+Practitioner informed by SSS
+
+Supervised screening commenced
+Manager and local screening board informed
+
+n
+12
+
+11
+
+10
+
+7
+Pocket of fluid under chin visible
+
+SSS to review previous paired images with
+practitioner
+SSS to liaise with Regional QA team
+Confirm action plan in place with Regional QA
+team within 2 weeks of DQASS report being
+received. (Regional QA team to inform SIL
+team).
+Review online training resources
+Supervised training sessions with SSS
+SSS to review new images to confirm
+acceptable
+
+Comments
+
+Outcome
+
+Longest measurement of fetus
+
+Callipers on outer borders of
+crown and rump
+
+Fills over 60% of the screen
+
+Nasal tip level or above
+abdominal wall
+
+dr
+
+Palate angle 30 - 60°
+
+aw
+
+6
+Clearly defined crown and rump
+
+ith
+W
+
+9
+
+5
+CRL axis between 0° and 30° to
+horizontal
+
+8
+
+4
+Translucent diencephalon
+
+3
+Rectangular shape of the palate
+
+2
+Echogenic tip of the nose
+
+Mid sagittal section, head in line
+with body
+
+Patient ID
+
+Assessor
+
+Date of review
+
+1
+
+17
+
+Review equipment, environment, working
+practices, technique and training needs
+
+CRL score sheet for Image Review
+
+52
+
+SSS to send 25 paired measurements to DQASS
+DQASS confirm new measurements within
+acceptable range
+SSS confirms practitioner may resume
+independent practice
+Review of outcome within 12 weeks and
+update sent by SSS to regional QA team
+
+Date
+Completed
+
+Comments
+
+53
+
+Appendix 4. Training logbook for new practitioners
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+Appendix 4. Training logbook for new
+practitioners
+
+Suggested action plan for practitioners assigned a red flag for throughput.
+
+Name of ultrasound practitioner
+
+Practitioner ID number
+
+DQASS identity code
+
+Audit cycle number
+
+Name of SSS
+
+gu
+st
+
+Name of SSS
+
+20
+
+Appendix 3. Red flag action plan
+(throughput)
+
+Name of organisation/NHS trust
+
+Name of local organisation/NHS trust
+Date
+
+ITEM
+
+FASP recommends that an individual training plan be negotiated between SSS and practitioner.
+Date
+Completed
+
+Comments
+
+Condensed education module for T21
+(CEMT21) Essential
+
+Comments
+
+NT training resource Essential
+
+Practitioner informed by SSS
+
+Training number requested from DQASS
+
+17
+
+Unsupervised screening ceases
+
+Manager and local ANNBSP board informed
+
+SSS to liaise with Regional QA team
+
+ith
+
+dr
+
+Confirm action plan in place with Regional QA
+team within 2 weeks of DQASS report being
+received. (Regional QA team to inform SIL team)
+
+aw
+
+n
+
+Review working practices
+
+DQASS reassess bias and throughput as
+acceptable
+
+Date
+completed
+
+Au
+
+Action
+
+SSS confirms practitioner may resume
+independent practice
+
+Review of outcome within 12 weeks and update
+sent by SSS to regional QA
+
+W
+
+54
+
+Log-book of supervised scans completed
+
+Log book of 25 independent scans
+completed
+Images reviewed and scored as good or
+acceptable with SSS
+25 paired measurements submitted to
+DQASS
+SSS confirms competent to scan
+independently
+Signed declaration
+The above named ultrasound practitioner has successfully completed all the training requirements and is
+therefore competent to undertake the ultrasound aspect of the NHS T21 combined screening programme.
+Signature of SSS ...........................................................................................................................
+Date. .............................................................................................................................................
+
+55
+
+Appendix 5. Return to practice logbook
+
+21
+
+FASP ultrasound
+Programmehandbook
+HandbookJuly
+April
+2015
+2015
+090715
+
+20
+
+Appendix 5. Return to practice logbook
+DQASS identity code
+Name of SSS
+
+ITEM
+
+Date
+completed
+
+gu
+st
+
+Name of organisation/NHS trust
+
+Comments
+
+Condensed education module for T21
+(CEMT21) Essential
+
+Au
+
+NT training resource Essential
+
+Supported practice if required
+
+17
+
+Satisfactory image review with SSS
+completed
+25 paired measurements submitted to
+DQASS
+
+ith
+
+dr
+
+aw
+
+n
+
+SSS confirms may continue screening
+
+W
+
+56
+
+NHS Screening Programmes
+Floor 2, Zone B
+Skipton House
+80 London Road
+London SE1 6LH
+Tel: 020 368 20890
+Email: PHE.screeninghelpdesk@nhs.net
+Web: fetalanomaly.screening.nhs.uk
+Twitter: @PHE_Screening
+© Crown Copyright 2015
+
+57
+
+
